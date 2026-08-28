@@ -1,0 +1,2987 @@
+{
+   "2": {
+      "Tool error": "error: tool timed out"
+   },
+   "3": {
+      "Tool error": "error: tool timed out"
+   },
+   "4": {
+      "Tool error": "error: tool timed out"
+   },
+   "5": {
+      "% size change from MBA": 66.66666666666666,
+      "deobf mba expression": "~(d^c+d)-(c^b*d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "6": {
+      "Tool error": "error: tool timed out"
+   },
+   "7": {
+      "% size change from MBA": 19.51219512195122,
+      "deobf mba expression": "(b&-212+2*(72&b)+2*(-129|b^-b)-((-74|b)^(2|32&b))+2*(2|1&b)+(33&b)+(-b&(-74|b))+(105^b)+(195^144&(b^-b))+(91^72&(b|-b)))+(b&~(-(2|-(b^-b))-2*(1&b)-(~(-2^b^-b)&(-2|b)^1&b)))+(b&~(-(2&b&-b)-(2|-b|-3&b)-((-106&b|-b&(2|105&b))&(2|-b|105&b)))^(1|b))",
+      "traits": {
+         "size": 149,
+         "% alternated": 40.243902439024396,
+         "% unique": 81.81818181818183,
+         "% cse": 18.181818181818183,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 3200.0
+      }
+   },
+   "8": {
+      "Tool error": "error: tool timed out"
+   },
+   "9": {
+      "Tool error": "error: tool timed out"
+   },
+   "10": {
+      "Tool error": "error: tool timed out"
+   },
+   "11": {
+      "% size change from MBA": 96.52173913043478,
+      "deobf mba expression": "d*(-(b|d)+b*d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "12": {
+      "% size change from MBA": 89.1891891891892,
+      "deobf mba expression": "-d+(b*b|-~(-2*(1&b&d)-(1^-(b&d))))",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "13": {
+      "Tool error": "result excluded from dataset because optimized ground truth has single var or no ops"
+   },
+   "14": {
+      "Tool error": "error: tool timed out"
+   },
+   "15": {
+      "Tool error": "error: tool timed out"
+   },
+   "16": {
+      "Tool error": "error: tool timed out"
+   },
+   "17": {
+      "Tool error": "error: tool timed out"
+   },
+   "18": {
+      "Tool error": "error: tool timed out"
+   },
+   "19": {
+      "Tool error": "error: tool timed out"
+   },
+   "20": {
+      "Tool error": "error: tool timed out"
+   },
+   "21": {
+      "Tool error": "error: tool timed out"
+   },
+   "22": {
+      "Tool error": "error: tool timed out"
+   },
+   "23": {
+      "% size change from MBA": 30.88235294117647,
+      "deobf mba expression": "-105-(-198&c)-(-138&-d)-(-2^-(c&d))-2*(-2&-(c&d))-a*c+(189&~(-c))+(-206&-d)+(-a&(-69|-d))+(-198&c&(-18|-c))+(-a^(-69|-d))+(2|172&-c)+(-69|-d|127+a)+(-18|-c|16&c)^190-3*c-(a^(11|d))-2*(-117&d)-(127&-c)+2*(-93|8&d|-a&c)+2*(11|a|d|100&-a&c)-(11&d^(-93|-a&c))-(103&-a&c^(11|a|d))+(-128&-c)+(-190&(-128^-c))+(-12&a&~d)+(-a^c&~(-93&-a))+(117^-12&d)+(103|-a&c)+(-190|-128^-c)",
+      "traits": {
+         "size": 216,
+         "% alternated": 45.45454545454545,
+         "% unique": 80.85106382978722,
+         "% cse": 19.148936170212767,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 1466.6666666666665
+      }
+   },
+   "24": {
+      "% size change from MBA": 33.33333333333333,
+      "deobf mba expression": "231+e+2*(60|-63&a)-2*(94&-a)+(-61^-39&a)+(-39^a)+(e^(c|-196^e))+(38|a)+(1|94&-a)+(-95|-a)+(1|-196&c)^2+2*(-53^e)-(~(-e)&(-53^e))-(-101&a^-53&e)+2*(53|e^(2147483530|a))+(-e&(52^e))+(-53&e&~(-101&a))+(-53&e&(-101|a))+(-54^-53&e^(-101|a))+(a|c-2*(c&e))+(-101&a|-53&e)+(~(-101|a)|-53&e)",
+      "traits": {
+         "size": 153,
+         "% alternated": 36.25,
+         "% unique": 77.77777777777779,
+         "% cse": 22.22222222222222,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 620.0
+      }
+   },
+   "25": {
+      "Tool error": "error: tool timed out"
+   },
+   "26": {
+      "Tool error": "error: tool timed out"
+   },
+   "27": {
+      "% size change from MBA": 97.91666666666666,
+      "deobf mba expression": "-~(2*c+2*(d&-a+d)+d*(-3+a*(-a-d)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -87.5
+      }
+   },
+   "28": {
+      "Tool error": "error: tool timed out"
+   },
+   "29": {
+      "% size change from MBA": 30.263157894736842,
+      "deobf mba expression": "(2*~b&32+2*(-123|b)-(2*(-49|a)^-51-a+(48|a))+2*(126^-63&b)+a*~(-e)+2*(-98|2*a|-51-a+(48|a))+(96&-b&(32^b))+(32|-49&a)+(125|~b&-b)+(-b|-69^b)+(5|24&~b&-b)+(-30|5&-b&(1^b)))+(2*~b&49+2*(-33|b)+2*(53|-120&b)+a*e+(-67&~b)+(-128&~b|-53^(-71^71&b)&(37^-72&b)))+(2*~b^95+2*(-131|b)-(-30&b)+a*e+2*(159^b&(2147483488|25&-b))+(8&-(b^-b))+(28&b&-b)+(-2^29&b&-b)+(-26^b&(-30|29&-b))+(-123^28&b&-b))",
+      "traits": {
+         "size": 234,
+         "% alternated": 44.09448818897638,
+         "% unique": 85.84905660377359,
+         "% cse": 14.150943396226415,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 10500.0
+      }
+   },
+   "30": {
+      "Tool error": "error: tool timed out"
+   },
+   "31": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "-a*d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "32": {
+      "% size change from MBA": 53.78151260504202,
+      "deobf mba expression": "-45-2*(-45&-a)+(1&a)+(b|c)+(44|-a)+(1|-46&-a)^57-2*(39&-c)-(48&-b)+2*(1|68&127*a)-a*~c+(1&-c)+(39&-c&(135|c))+(69^-a)+(39&-c^(135|c))+(-49^125&-b)+(-2^69&-a)+(-70|-a)+(-55|39&-c)+(48|125&-b)+(-136&~c|39&-c)",
+      "traits": {
+         "size": 128,
+         "% alternated": 51.388888888888886,
+         "% unique": 83.63636363636363,
+         "% cse": 16.363636363636363,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 816.6666666666666
+      }
+   },
+   "33": {
+      "Tool error": "error: tool timed out"
+   },
+   "34": {
+      "Tool error": "error: tool timed out"
+   },
+   "35": {
+      "Tool error": "error: tool timed out"
+   },
+   "36": {
+      "Tool error": "result excluded from dataset because optimized ground truth has single var or no ops"
+   },
+   "37": {
+      "Tool error": "error: tool timed out"
+   },
+   "38": {
+      "Tool error": "error: tool timed out"
+   },
+   "39": {
+      "Tool error": "error: tool timed out"
+   },
+   "40": {
+      "% size change from MBA": 62.5,
+      "deobf mba expression": "c*(-51+c-3*(1&-d)+2*(-97|127*c)+2*(1&-c&-d)-(128&-d^(-97|-c))+(82&-d)+(210^-d&(-83|1&-c))+(-97&-c^1&-d)+(-4|1&-d)+(72|1&-d)+(-129|-d))",
+      "traits": {
+         "size": 86,
+         "% alternated": 48.97959183673469,
+         "% unique": 83.33333333333334,
+         "% cse": 16.666666666666664,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 500.0
+      }
+   },
+   "41": {
+      "Tool error": "error: tool timed out"
+   },
+   "42": {
+      "% size change from MBA": 38.961038961038966,
+      "deobf mba expression": "-(d^-(c|-d+e)^-c&~(c*d))+(-103-(c|-d+e)+(-25^-91&e)+(82^67&e)+(44|66&e)+(2|-92&e)|d^-c&~(c*d))+(-135-2*(-90&e)-(-87&~(86&d))+2*(-72&e)-(c|-d+e)+2*(24^30&e)|d^-c&~(c*d))",
+      "traits": {
+         "size": 107,
+         "% alternated": 44.06779661016949,
+         "% unique": 70.2127659574468,
+         "% cse": 29.78723404255319,
+         "num equivalent subtrees to GT": 14,
+         "% size mba increase from GT ": 683.3333333333333
+      }
+   },
+   "43": {
+      "% size change from MBA": 88.88888888888889,
+      "deobf mba expression": "-(~a&-a)",
+      "traits": {
+         "size": 6,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "44": {
+      "Tool error": "error: tool timed out"
+   },
+   "45": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "c",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "46": {
+      "Tool error": "error: tool timed out"
+   },
+   "47": {
+      "Tool error": "error: tool timed out"
+   },
+   "48": {
+      "Tool error": "error: tool timed out"
+   },
+   "49": {
+      "Tool error": "error: tool timed out"
+   },
+   "50": {
+      "Tool error": "MBABoost eval script cannot process exponentiation"
+   },
+   "51": {
+      "% size change from MBA": 88.09523809523809,
+      "deobf mba expression": "-2*b+~c+d+(c&d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "52": {
+      "Tool error": "error: tool timed out"
+   },
+   "53": {
+      "Tool error": "error: tool timed out"
+   },
+   "54": {
+      "Tool error": "error: tool timed out"
+   },
+   "55": {
+      "Tool error": "error: tool timed out"
+   },
+   "56": {
+      "Tool error": "error: tool timed out"
+   },
+   "57": {
+      "% size change from MBA": 69.86301369863014,
+      "deobf mba expression": "e^a*(e&(a^c))^283+a-2*c+e-(-2&-c)-(12&-a)-(157&-a)+2*(-13|15*a)+2*(-157|12&15*a)-(33&c^(-13|-a))+(156^13&-a)+(67^-2&-c)+(33|c)+(-67|-c)+(-146|144&-a)+(1|66&-c)",
+      "traits": {
+         "size": 98,
+         "% alternated": 49.056603773584904,
+         "% unique": 90.9090909090909,
+         "% cse": 9.090909090909092,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 450.0
+      }
+   },
+   "58": {
+      "% size change from MBA": 17.391304347826086,
+      "deobf mba expression": "-89+2*(d^~b&(-43^d))+2*(78&-d)+2*(4&7+d)+b*(b&d)+(-48&-b)+(32&b&-d)+(106^b)+(-69^106&b)+(-12|-b)+(-37|-b)+(106&b|-75&-d)+(74|32&-d)+(106|-d)",
+      "traits": {
+         "size": 86,
+         "% alternated": 46.808510638297875,
+         "% unique": 94.73684210526315,
+         "% cse": 5.263157894736842,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 533.3333333333333
+      }
+   },
+   "59": {
+      "% size change from MBA": 25.0,
+      "deobf mba expression": "-(2*a^(e|16-3*c+(c&(-17|-c))+(-17|c&31+c)))+(2*a|-84+2*(-46|c)-(2*c&~e)+2*(-c|45^c)+(1^13&(c^-c))+(-183^-96&(c^-c))+(134^128&(c^-c))+(-83|c^127+c)+(6|128&(c^255+c)))+(2*a|137-(2*c&~e)+(c&-c)+(-4^6&(c^-c))+(85^-69&(c|-c))+(-53^68&(c|-c))+(-166|c^-c))",
+      "traits": {
+         "size": 152,
+         "% alternated": 48.78048780487805,
+         "% unique": 79.71014492753623,
+         "% cse": 20.28985507246377,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": 1625.0
+      }
+   },
+   "60": {
+      "% size change from MBA": 22.807017543859647,
+      "deobf mba expression": "d^41+3*(-38|d)+2*(219|-b)-2*(-66&-b)-(-156&b&(64|-b)^(155|b))+(26&-b&-d)+(b^2*d)+(37^d)+(-27^(-38|d))+(26^-d)+(-156^26&-d^(65|-b))+(-27|-d)+(-155|26&-b&-d)+(65|-b|-220&b)",
+      "traits": {
+         "size": 101,
+         "% alternated": 48.214285714285715,
+         "% unique": 81.81818181818183,
+         "% cse": 18.181818181818183,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 633.3333333333333
+      }
+   },
+   "61": {
+      "Tool error": "error: tool timed out"
+   },
+   "62": {
+      "% size change from MBA": 49.64028776978417,
+      "deobf mba expression": "c|-84-2*(19&a&~c)+2*(142|c^17&a)+2*(142^-e|2147483505^c^19&a)-(~(c^-e)^19&a)-e*~(a&e)+(-143|-e)+(-160|-c)+(104|19&a)+(142&-e|-160&-c)|145+e+2*(73&(a|e))-(82&c)-(37&a)+(64&c)+(37&a&(89^e))+(89^a&(37^e))+(91^-55&(a|e))+(a|-55&~e)+(-180|18&c)+(37&a|-90^a&e)",
+      "traits": {
+         "size": 151,
+         "% alternated": 33.75,
+         "% unique": 84.28571428571429,
+         "% cse": 15.714285714285714,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 1300.0
+      }
+   },
+   "63": {
+      "Tool error": "error: tool timed out"
+   },
+   "64": {
+      "Tool error": "error: tool timed out"
+   },
+   "65": {
+      "% size change from MBA": 55.12820512820513,
+      "deobf mba expression": "3+e*e+2*(-64&e&-e)-2*(44|c|-e)-(-85&c&(40^-e))-(-85|c&(4^-e))+(17&-e)+(c&e^(-28|e))+(-e^c&(-45^-e))+(-28&e^-45&-e)+(29|-45&-e)",
+      "traits": {
+         "size": 80,
+         "% alternated": 40.909090909090914,
+         "% unique": 94.28571428571428,
+         "% cse": 5.714285714285714,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 3400.0
+      }
+   },
+   "66": {
+      "Tool error": "error: tool timed out"
+   },
+   "67": {
+      "Tool error": "error: tool timed out"
+   },
+   "68": {
+      "Tool error": "error: tool timed out"
+   },
+   "69": {
+      "% size change from MBA": 59.25925925925925,
+      "deobf mba expression": "-197+d-(-109&-a)-(-23&a)+2*(69&-d)+(d&-~a)+(-109&-a&(117|-d))+(79^117&-d)+(117|-d|-109&-a)",
+      "traits": {
+         "size": 52,
+         "% alternated": 51.724137931034484,
+         "% unique": 77.27272727272727,
+         "% cse": 22.727272727272727,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 450.0
+      }
+   },
+   "70": {
+      "Tool error": "error: tool timed out"
+   },
+   "71": {
+      "% size change from MBA": 49.696969696969695,
+      "deobf mba expression": "(171+2*(-192&-b)+2*(-171|255*b)-(-171^21&-b)+(b&(21|-b))+((-22^-b)&(b|-b))&-189+(-25&(48|b))+(141&-b)+((132|-b)&(32|-58&b))+(-49^b)+(b^-b)+(-26^(48|b))+(18|8&b)+(189|b|-b)+(32|-58&b|(25|b)&(141|-b)))+(-~((-147^-46&-b)+(-153^-b)+(154^-11&-b)+(144^-11&-b)+(1|-46&-b))|67+2*(4|56&-b|(115|-b)&(2147483459|48&b))-((-189|48&b)&(115|-b)^(7|120&-b))+(-49&b)+(120&-b)+(-142&(123|-b))+(b^-b)+(-8^123&-b)+(-142^(123|-b)))",
+      "traits": {
+         "size": 186,
+         "% alternated": 47.05882352941176,
+         "% unique": 80.72289156626506,
+         "% cse": 19.27710843373494,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 1085.7142857142858
+      }
+   },
+   "72": {
+      "Tool error": "error: tool timed out"
+   },
+   "73": {
+      "Tool error": "error: tool timed out"
+   },
+   "74": {
+      "Tool error": "error: tool timed out"
+   },
+   "75": {
+      "% size change from MBA": 92.85714285714286,
+      "deobf mba expression": "c&d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "76": {
+      "% size change from MBA": 91.66666666666666,
+      "deobf mba expression": "d^e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "77": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "~d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "78": {
+      "% size change from MBA": 72.0,
+      "deobf mba expression": "-(a|c)+(2*c&(c*c|a+c))",
+      "traits": {
+         "size": 16,
+         "% alternated": 62.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -12.5
+      }
+   },
+   "79": {
+      "Tool error": "error: tool timed out"
+   },
+   "80": {
+      "% size change from MBA": 45.0,
+      "deobf mba expression": "328+3*(-2|-~(b&c))-(325&(-2|-~(b&c)))+(1^-~(b&c))",
+      "traits": {
+         "size": 23,
+         "% alternated": 54.54545454545454,
+         "% unique": 54.54545454545454,
+         "% cse": 45.45454545454545,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 175.0
+      }
+   },
+   "81": {
+      "Tool error": "error: tool timed out"
+   },
+   "82": {
+      "Tool error": "error: tool timed out"
+   },
+   "83": {
+      "Tool error": "error: tool timed out"
+   },
+   "84": {
+      "Tool error": "error: tool timed out"
+   },
+   "85": {
+      "Tool error": "error: tool timed out"
+   },
+   "86": {
+      "Tool error": "error: tool timed out"
+   },
+   "87": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-e",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "88": {
+      "Tool error": "error: tool timed out"
+   },
+   "89": {
+      "Tool error": "error: tool timed out"
+   },
+   "90": {
+      "% size change from MBA": 36.71875,
+      "deobf mba expression": "219-(~a&(83|-a))-(-150&-b^(83|-a))+2*(83|-a|2147483432&-b)+(1&b)+(-133&~(-b))+(-49&(-150|-b))+(-49^(-150|-b))+(67&(a|b)^(-68|a|b))+(-84|~a|-a)|397+2*(-114|a&b)-(a^b^-b)+2*(1|(80^2147483480&a)&(-a|112&~b))+(~b&(-114|a))+(-a&(-114|b))+(113&a&b)+(-135^166&a)+(113&a^(-114|b))+(-a^(-114|b))+(-2^(81^-167&a)&(-a|113&~b))+(113^b)+(-a|113&~b|81^-167&a)",
+      "traits": {
+         "size": 185,
+         "% alternated": 36.89320388349515,
+         "% unique": 77.77777777777779,
+         "% cse": 22.22222222222222,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 1250.0
+      }
+   },
+   "91": {
+      "Tool error": "error: tool timed out"
+   },
+   "92": {
+      "Tool error": "error: tool timed out"
+   },
+   "93": {
+      "% size change from MBA": 43.13725490196079,
+      "deobf mba expression": "-(c^~(-(-2&-(a&d))-(1&a&d))^(-a|~a&c))+(-a|~((c^-(-2&-(a&d))-(1&a&d))&(a|~c)))+(-a|~a&c|c^~(-(-2&-(a&d))-(1&a&d)))",
+      "traits": {
+         "size": 75,
+         "% alternated": 46.666666666666664,
+         "% unique": 27.586206896551722,
+         "% cse": 72.41379310344827,
+         "num equivalent subtrees to GT": 11,
+         "% size mba increase from GT ": 383.33333333333337
+      }
+   },
+   "94": {
+      "Tool error": "error: tool timed out"
+   },
+   "95": {
+      "% size change from MBA": 29.591836734693878,
+      "deobf mba expression": "-(c&25-b+2*(-106|-d)-(105^-d^(42|-c))-(42|-c|-106^-d)+(40&d)+(b+c*c&(b|d))+(17&(-43^-c))+((-44|b)&(64|-107&d))+(42^-c)+(40&d&-d^(57|66&d))+(61^-60&b)+(-17^-44&b)+(1|4&b)+(1|40&d&-d)+(17|-43^-c)+(17|-60&b)+(-61|-60&b)+(-48|34&b)+(42|-c|105^-d)+(-10|b|1&d))",
+      "traits": {
+         "size": 152,
+         "% alternated": 41.46341463414634,
+         "% unique": 78.26086956521739,
+         "% cse": 21.73913043478261,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 885.7142857142858
+      }
+   },
+   "96": {
+      "Tool error": "error: tool timed out"
+   },
+   "97": {
+      "Tool error": "error: tool timed out"
+   },
+   "98": {
+      "% size change from MBA": 43.00699300699301,
+      "deobf mba expression": "(-(a^95-(-a&~(8&e))-(92^e^(10|-a))+(-117&(-102|-e))+((-93^e)&(10|-a))+(101^-e)+(-117^(-102|-e))+(92&e^10&-a)+(-2|-e)+(-102|-e)+(10|-a|92^e)+(-93|~e|10&-a))&(a|-e)+(a|130-((11|a)^(-8|-e))+(-117&e)+(-12&~a)+(112&-a)+(-3&-e)+((8|a)&(-120|112&e))+(-12&~a&(-8|-e))+(112&-a^(-3|-e))+(-5|e)+(7|-e)+(-5|a|-e)+(-117|a|112&e)))+(-(a^180-(116&e)+(79&a)+(-a&-e)+(-56&(-63|10&e)&(-a|-e))+(-117^e)+(62^-117&e)+(10&e^(11|-128&a))+(-49|a)+(-24|-a|-e)+(-63|2*(10&e)|10&e|40&(-a|-e)))|(a|-49-(-51&-a)+2*(76|-127&-a)+(-117&~(-e))+(-21&-e)+(-77^-51&-a)+(116|-e)+(-5|-e)+(-20|112&-e))+(a|-171+2*(112&-e)+((112^-e)&(53|e))+(8&e&(-a|-e))+(-54^e)+(-e|60&~(-a))+(-54&e|60&(-a|-e))+(53|e|64^-e)))",
+      "traits": {
+         "size": 380,
+         "% alternated": 51.85185185185185,
+         "% unique": 77.91411042944786,
+         "% cse": 22.085889570552148,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 3160.0
+      }
+   },
+   "99": {
+      "Tool error": "error: tool timed out"
+   },
+   "100": {
+      "Tool error": "error: tool timed out"
+   },
+   "101": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "~c-(d&~(2*a))",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "102": {
+      "Tool error": "error: tool timed out"
+   },
+   "103": {
+      "Tool error": "error: tool timed out"
+   },
+   "104": {
+      "Tool error": "error: tool timed out"
+   },
+   "105": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-b",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "106": {
+      "Tool error": "error: tool timed out"
+   },
+   "107": {
+      "% size change from MBA": 71.42857142857143,
+      "deobf mba expression": "-(e&d*e*(d-e))-(d*e|-d+e)",
+      "traits": {
+         "size": 19,
+         "% alternated": 50.0,
+         "% unique": 75.0,
+         "% cse": 25.0,
+         "num equivalent subtrees to GT": 9,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "108": {
+      "Tool error": "error: tool timed out"
+   },
+   "109": {
+      "Tool error": "error: tool timed out"
+   },
+   "110": {
+      "Tool error": "error: tool timed out"
+   },
+   "111": {
+      "Tool error": "error: tool timed out"
+   },
+   "112": {
+      "Tool error": "error: tool timed out"
+   },
+   "113": {
+      "Tool error": "error: tool timed out"
+   },
+   "114": {
+      "Tool error": "error: tool timed out"
+   },
+   "115": {
+      "Tool error": "error: tool timed out"
+   },
+   "116": {
+      "Tool error": "error: tool timed out"
+   },
+   "117": {
+      "% size change from MBA": 94.64285714285714,
+      "deobf mba expression": "-2+(b&~(-192&a))",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "118": {
+      "Tool error": "error: tool timed out"
+   },
+   "119": {
+      "Tool error": "error: tool timed out"
+   },
+   "120": {
+      "% size change from MBA": 76.27118644067797,
+      "deobf mba expression": "-a*e+(-a*e&2*(1&(a|~(-a)))+(1^~(-(~a&-a)))|~(-a*e)&-~(-2*(1&~a&-a)-(1^-(~a&-a))))",
+      "traits": {
+         "size": 39,
+         "% alternated": 45.83333333333333,
+         "% unique": 78.57142857142857,
+         "% cse": 21.428571428571427,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "121": {
+      "Tool error": "error: tool timed out"
+   },
+   "122": {
+      "Tool error": "error: tool timed out"
+   },
+   "123": {
+      "Tool error": "error: tool timed out"
+   },
+   "124": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "e",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "125": {
+      "Tool error": "error: tool timed out"
+   },
+   "126": {
+      "Tool error": "error: tool timed out"
+   },
+   "127": {
+      "Tool error": "error: tool timed out"
+   },
+   "128": {
+      "Tool error": "error: tool timed out"
+   },
+   "129": {
+      "Tool error": "error: tool timed out"
+   },
+   "130": {
+      "Tool error": "error: tool timed out"
+   },
+   "131": {
+      "% size change from MBA": 56.48854961832062,
+      "deobf mba expression": "-(2*(1&(47|a))+(-2&-(-c&e))+(-2|-c&e)&47+2*(-41|~a|e)-2*(-a&-e)+2*(2147483603|e|-41^a)+(-52&~(-c))+(51&-a&-c&-e)+(a&e^(44|e))+(51^-c)+(-60^-a&-e)+(-a&-e^51&-c)+(-41^~e&(44^a))+(59|-a&-e)+(51&-c|-60&-a&-e)+(-52|~(-c)|-a&-e))",
+      "traits": {
+         "size": 143,
+         "% alternated": 50.588235294117645,
+         "% unique": 84.21052631578947,
+         "% cse": 15.789473684210526,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 1325.0
+      }
+   },
+   "132": {
+      "Tool error": "error: tool timed out"
+   },
+   "133": {
+      "Tool error": "error: tool timed out"
+   },
+   "134": {
+      "Tool error": "error: tool timed out"
+   },
+   "135": {
+      "Tool error": "error: tool timed out"
+   },
+   "136": {
+      "Tool error": "error: tool timed out"
+   },
+   "137": {
+      "Tool error": "error: tool timed out"
+   },
+   "138": {
+      "Tool error": "error: tool timed out"
+   },
+   "139": {
+      "Tool error": "error: tool timed out"
+   },
+   "140": {
+      "% size change from MBA": 53.37837837837838,
+      "deobf mba expression": "-~(a^b+c)^-154+2*(c&~(a&b))-(a^a&c^~b&c)+2*(128&a)+(28&-c)+(-69&c)+((28^-c)&(68|c))+(-87&b)+(-54&-c&(68|c))+(-162&-b&(-248^b))+(-162^-b)+(-54^-c)+(-60^a)+(-69^c)+(161^-60&a)+(28^-c^(68|c))+(161|-b)+(-29|-c)+(53|-c)+(~(68|c)|28^-c)+(86|b)+(59|a)+(-162&-b|-87^b)+(68|c|-118&-c)",
+      "traits": {
+         "size": 155,
+         "% alternated": 44.70588235294118,
+         "% unique": 85.5072463768116,
+         "% cse": 14.492753623188406,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 1280.0
+      }
+   },
+   "141": {
+      "Tool error": "error: tool timed out"
+   },
+   "142": {
+      "% size change from MBA": 56.00000000000001,
+      "deobf mba expression": "-3+2*(-b&(d*d^b*d))-3*(d*d^b*d)",
+      "traits": {
+         "size": 24,
+         "% alternated": 58.333333333333336,
+         "% unique": 45.45454545454545,
+         "% cse": 54.54545454545454,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 175.0
+      }
+   },
+   "143": {
+      "Tool error": "error: tool timed out"
+   },
+   "144": {
+      "Tool error": "error: tool timed out"
+   },
+   "145": {
+      "Tool error": "error: tool timed out"
+   },
+   "146": {
+      "Tool error": "error: tool timed out"
+   },
+   "147": {
+      "Tool error": "error: tool timed out"
+   },
+   "148": {
+      "Tool error": "error: tool timed out"
+   },
+   "149": {
+      "Tool error": "error: tool timed out"
+   },
+   "150": {
+      "Tool error": "error: tool timed out"
+   },
+   "151": {
+      "Tool error": "error: tool timed out"
+   },
+   "152": {
+      "Tool error": "error: tool timed out"
+   },
+   "153": {
+      "Tool error": "error: tool timed out"
+   },
+   "154": {
+      "% size change from MBA": 5.128205128205128,
+      "deobf mba expression": "c*(a|-15+2*(7|8&c)+2*(11|a|~(-a))-(-12&a&-a)+2*(-11|a|-10&-a)-((-11|a)^(~(-17|-c)|-10&-a))-(-10&-a&(-17|-c)^(1|10&a))-(10&c^-10&-a^(-17|-c))+(-11&-a)+(~(10&c)&(-10&-a^(-17|-c)))+((9|~(-a))&(1|10&a))+(~(-10&-a&(-17|-c))&(1|10&a))+((10^a)&(11|~(-a)))+(-16&-a&c)+(-10&-a&(-17|-c))+(c^a*c)+(-7^10&c)+(2^10&-a)+(-7^-10&-a)+(~(-10&-a&(-17|-c))&(1|10&a)^(-17|-c))+(16|-c)+(7|-10&-a)+(10&c|-10&-a^(-17|-c))+(1|10&a|-10&-a&(-17|-c))+(10|c|-16&-a))",
+      "traits": {
+         "size": 261,
+         "% alternated": 38.92617449664429,
+         "% unique": 55.85585585585585,
+         "% cse": 44.14414414414414,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 1750.0
+      }
+   },
+   "155": {
+      "Tool error": "error: tool timed out"
+   },
+   "156": {
+      "% size change from MBA": 66.66666666666666,
+      "deobf mba expression": "~(b^e)",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "157": {
+      "Tool error": "error: tool timed out"
+   },
+   "158": {
+      "% size change from MBA": 73.07692307692307,
+      "deobf mba expression": "-(c|2*c)&-d*d-(c|d*d)",
+      "traits": {
+         "size": 17,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "159": {
+      "Tool error": "error: tool timed out"
+   },
+   "160": {
+      "% size change from MBA": 39.130434782608695,
+      "deobf mba expression": "-b^122+2*(~b&c)-(-55|b)+(17&~(-a))+(-2&~(-a))+((-55|b)&(-145|~c|128&b))+((35|a)&(-94|1&-a))+((-55|b)&(100|-c))+(-127&(-93&(-18|-a)^(35|a)))+(128&b&c)+(144&c^-55&b)+(1&~(-a)^(35|a))+(-93^(-18|-a))+(-33^17&-a)+(-101|-c)+(-28|17&-a)+(~(-94^(-93|a))|1&-a)+(92|-93&(-18|-a)^(35|a))+(-17|b|~c)+(-19|b|-c)",
+      "traits": {
+         "size": 162,
+         "% alternated": 37.362637362637365,
+         "% unique": 71.42857142857143,
+         "% cse": 28.57142857142857,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 1066.6666666666665
+      }
+   },
+   "161": {
+      "Tool error": "error: tool timed out"
+   },
+   "162": {
+      "Tool error": "error: tool timed out"
+   },
+   "163": {
+      "% size change from MBA": 76.92307692307693,
+      "deobf mba expression": "-2*e+~(d|e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "164": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "165": {
+      "Tool error": "error: tool timed out"
+   },
+   "166": {
+      "% size change from MBA": 18.493150684931507,
+      "deobf mba expression": "-(271+a-(177&-b)+2*(-96&-a&~(a|b)|(177|-b)^(-91|-a))-(-96&-a&~(a|b)^(177|-b)^(-91|-a))+2*(-193|a|b)-((177|-b)^(21|a|b))-(-91&-a^(21|a|b))+(~(21|a|b)&(177|-b))+((177|-b)&(-91|-a))+(-178^-b)+(-22^(a|b))+(209^-22&(a|b))+(21|a|b)+(-91|-a|~(177|-b))+(181|a|b|-b)+(21|a|b|-96&-a)^(-a|-248-(-125|b)-(124&b^112&a)-b*b+2*(1|124&b|112&a)+2*(56^124&-a)-(124&b|112&a)+(34&-a)+(112&a&~(124&b))+(120&b&(-40|34&-a))+(112^a)+(-186^-a)+(39^-198&-a)+(-113|a)+(197|-a)+(-40|36&b|34&-a)))",
+      "traits": {
+         "size": 270,
+         "% alternated": 38.0,
+         "% unique": 66.38655462184873,
+         "% cse": 33.61344537815126,
+         "num equivalent subtrees to GT": 18,
+         "% size mba increase from GT ": 1883.3333333333333
+      }
+   },
+   "167": {
+      "Tool error": "error: tool timed out"
+   },
+   "168": {
+      "Tool error": "error: tool timed out"
+   },
+   "169": {
+      "Tool error": "error: tool timed out"
+   },
+   "170": {
+      "Tool error": "error: tool timed out"
+   },
+   "171": {
+      "% size change from MBA": 35.2112676056338,
+      "deobf mba expression": "206-(-64&c)-2*(e|160&c)+2*(-124&c)+2*(-33|c)+2*(1|~c|2147483486&e)+((-161^c^e)&(c|~e))+(52&(-2^(~c|-161&e)))+(-97^-52&c)+(86^12&c)+(-54^(~c|-161&e))+(32^c^-161&e)+(-53|-2^(~c|-161&e))",
+      "traits": {
+         "size": 98,
+         "% alternated": 23.52941176470588,
+         "% unique": 80.43478260869566,
+         "% cse": 19.565217391304348,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 557.1428571428571
+      }
+   },
+   "172": {
+      "Tool error": "error: tool timed out"
+   },
+   "173": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "174": {
+      "Tool error": "error: tool timed out"
+   },
+   "175": {
+      "Tool error": "error: tool timed out"
+   },
+   "176": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "177": {
+      "% size change from MBA": 56.70731707317073,
+      "deobf mba expression": "-13+2*(-13|15*e)+2*(-3|e)-(-35&e)-2*(12&-e)-b*(b&c)+(11^34&e)+(34^e)^-174-((101|b)^(75|-e^b&c))+(c&(b&-e|101&~b))+(~(75|-e^b&c)&(101|b))+(75&(-94^e)&(-e^b&c))+(-102^b)+(-94^e^75&(-e^b&c))+(101&~(b|c)|b&c&-e)+(75&(-e^b&c)|93^e)+(75|-e^b&c)+(111|b|-e)",
+      "traits": {
+         "size": 156,
+         "% alternated": 35.714285714285715,
+         "% unique": 67.6056338028169,
+         "% cse": 32.3943661971831,
+         "num equivalent subtrees to GT": 18,
+         "% size mba increase from GT ": 1320.0
+      }
+   },
+   "178": {
+      "% size change from MBA": 41.935483870967744,
+      "deobf mba expression": "2*(c&e&-~c&2*e+c*c)+(c+(1&~(-138&c))^c&e&2*e+c*c)",
+      "traits": {
+         "size": 38,
+         "% alternated": 36.84210526315789,
+         "% unique": 55.55555555555556,
+         "% cse": 44.44444444444444,
+         "num equivalent subtrees to GT": 9,
+         "% size mba increase from GT ": 200.0
+      }
+   },
+   "179": {
+      "% size change from MBA": 66.66666666666666,
+      "deobf mba expression": "~(c^e)",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "180": {
+      "Tool error": "error: tool timed out"
+   },
+   "181": {
+      "% size change from MBA": 57.74647887323944,
+      "deobf mba expression": "(a&~e&-c*e*(c|-e))+(158+2*(-103|6&c)-c*e*(c|-e)+(-c&(102^15&c))+(15|c)+(-69&-c|34^11&c)+(-5|~c|-c)|a&~e)",
+      "traits": {
+         "size": 70,
+         "% alternated": 41.02564102564102,
+         "% unique": 86.66666666666667,
+         "% cse": 13.333333333333334,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 400.0
+      }
+   },
+   "182": {
+      "Tool error": "error: tool timed out"
+   },
+   "183": {
+      "Tool error": "error: tool timed out"
+   },
+   "184": {
+      "% size change from MBA": 36.60130718954248,
+      "deobf mba expression": "-101+a-2*(-55&-e)+2*(47|-d)-(-36&-d)+(a-e&(a^d))+(-e&(149|-a))+(-55&-e&(-182|149&-a))+(-e^(149|-a))+(-13^-36&-d)+(54|-e)+(149|-a|~(-e))+(-182|129&-e|149&-a)|-201+2*e+2*(102&-a|d&(102|-a))+a*d-(-e^102&-d)+2*(-8&a|102&-d|190^e)-((102&-d|-8&a&(-192^e))^(-8&a|190^e))+(-e&~(102&-d))+(96&a&-d&(-192^e))+(-8^a)+(-191^e^-8&a)+(7|a)+(102&~d|102^-a^d)+(102|-d)+(-e|102&-d)+(-103|d|~(-a))",
+      "traits": {
+         "size": 228,
+         "% alternated": 43.07692307692308,
+         "% unique": 77.31958762886599,
+         "% cse": 22.68041237113402,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 1516.6666666666665
+      }
+   },
+   "185": {
+      "Tool error": "error: tool timed out"
+   },
+   "186": {
+      "Tool error": "error: tool timed out"
+   },
+   "187": {
+      "Tool error": "error: tool timed out"
+   },
+   "188": {
+      "% size change from MBA": 89.83050847457628,
+      "deobf mba expression": "e*(e+(95^94&e)+(-95|e))",
+      "traits": {
+         "size": 13,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "189": {
+      "% size change from MBA": 60.46511627906976,
+      "deobf mba expression": "-162+2*(a&~b)-2*(80&d)+2*(-147&d)+2*(13^28&d)+2*(151|72&d)+a*~d+(~a&-a+b)+(-15&-d)+(-78&(-15|-d))+(-151^d)+(-78^(-15|-d))+(-3|-d)",
+      "traits": {
+         "size": 77,
+         "% alternated": 40.476190476190474,
+         "% unique": 94.11764705882352,
+         "% cse": 5.88235294117647,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 277.77777777777777
+      }
+   },
+   "190": {
+      "Tool error": "error: tool timed out"
+   },
+   "191": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "-b*b",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "192": {
+      "% size change from MBA": 94.28571428571428,
+      "deobf mba expression": "~(-(a&a*e))",
+      "traits": {
+         "size": 7,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "193": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "194": {
+      "Tool error": "error: tool timed out"
+   },
+   "195": {
+      "Tool error": "error: tool timed out"
+   },
+   "196": {
+      "% size change from MBA": 32.25806451612903,
+      "deobf mba expression": "~(14+b-(-d|-11&a)-2*(-2147483542|~a|-d)-(d^~b&(-30|d))-(b|d|96^-a)-((-97^-a)&(b|d))-(-30&(b|d)^(29|b|d))-(-97^(10|~a|-d))-2*(-79|66&(b|d))-(79^-30&(b|d))+(a^-a+d)+(96^-a^(b|d)))&101+2*(-192&d)-(27^a^b&-d)+3*(27&a&b&-d)+2*(-165^-28&d)+(b*(a&d)&(a^d))+(-28&~a)+(b&-d&(-28^a))+(164^d)+(27^a)+(b^-d)+(-192^(2*(64&-b)|109&-b))+(27&a^b&-d)+(27&a^(b&-d|27^a))+(255|-b)+(4|146&-b)+(-28|~a|b&-d)",
+      "traits": {
+         "size": 235,
+         "% alternated": 39.53488372093023,
+         "% unique": 80.0,
+         "% cse": 20.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 1400.0
+      }
+   },
+   "197": {
+      "Tool error": "error: tool timed out"
+   },
+   "198": {
+      "Tool error": "error: tool timed out"
+   },
+   "199": {
+      "Tool error": "error: tool errored unsolveable"
+   },
+   "200": {
+      "% size change from MBA": 13.178294573643413,
+      "deobf mba expression": "-3*d+(-3*d&89-(d^-(a|d))-(-13&-d)+2*(d&(-148^-a))+(64&a)+(64&-a)+((89^a)&(12^-d))+((-13|-d)&(~d|-148&-a))+(89&a&(-148^-a))+(64^-148&-a)+(-148^-a^89&a)+(-26|a)+(-65|-a)+(-a&~d|-148^-a^d)+(89&a|147^-a)+(89^a|12^-d)+(-13|-a|~d|-d)|~(-3*d)&3-(d^-(a|d))+2*(25&-d)+2*(59&-d&(32|-a))+2*(59&-d^(32|-a))+(-160&d)+(a&(-28|-a|31+d))+((89^59&-d)&(32|-a))+(-33^-a)+(59^-d)+(-148|d)+(-32|12&d)+(~(32|-a)|59&-d)+(32|-a|89^27&-d)+(-28|a|-a|31+d))",
+      "traits": {
+         "size": 263,
+         "% alternated": 48.0,
+         "% unique": 72.32142857142857,
+         "% cse": 27.67857142857143,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": 1500.0
+      }
+   },
+   "201": {
+      "Tool error": "error: tool timed out"
+   },
+   "202": {
+      "Tool error": "error: tool timed out"
+   },
+   "203": {
+      "Tool error": "error: tool timed out"
+   },
+   "204": {
+      "% size change from MBA": 38.84297520661157,
+      "deobf mba expression": "86+2*(80&(b|-c))+2*(115^-2&(b|-c))+(b&-c)+(-116^(b|-c))+(-47^82&(b|-c))+(-38|32&(b|-c))+(-115|b|-c)|35-(-c&e)-(-96&-e)+2*(-33|63*b)+~c*((1&~(b&e))+(1|~(-(b&e))))-(-96^-e^(10|b))-((-c&e|-96&-e)^(10|b|-96^-e))+2*(-86|b|-e|-c&e)+(-34&-b)+((95^-e)&(10|b))+(-96&-c&e&-e)+(32^33&-b)+(-11|b)",
+      "traits": {
+         "size": 173,
+         "% alternated": 46.93877551020408,
+         "% unique": 77.02702702702703,
+         "% cse": 22.972972972972975,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 1133.3333333333335
+      }
+   },
+   "205": {
+      "Tool error": "error: tool timed out"
+   },
+   "206": {
+      "Tool error": "error: tool timed out"
+   },
+   "207": {
+      "% size change from MBA": 66.66666666666666,
+      "deobf mba expression": "a+~(~a*b^(1&~(a&b))+(1|~(-(a&b))))",
+      "traits": {
+         "size": 22,
+         "% alternated": 61.53846153846154,
+         "% unique": 75.0,
+         "% cse": 25.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "208": {
+      "Tool error": "error: tool timed out"
+   },
+   "209": {
+      "Tool error": "error: tool timed out"
+   },
+   "210": {
+      "Tool error": "error: tool timed out"
+   },
+   "211": {
+      "Tool error": "error: tool timed out"
+   },
+   "212": {
+      "Tool error": "error: tool timed out"
+   },
+   "213": {
+      "% size change from MBA": 38.095238095238095,
+      "deobf mba expression": "-138+2*(14&a)-2*(20&a)+2*(42^26&a)-(c&(a&e|55&~(a|e)))+(63&~e)+(c&~(-e))+(-63&(55|e))+(55&(c|63+e))+(-64^(55|e))+(-56&~(c|e)|-56&a&~e)+(55|c|~(-e))",
+      "traits": {
+         "size": 87,
+         "% alternated": 29.78723404255319,
+         "% unique": 94.87179487179486,
+         "% cse": 5.128205128205128,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 550.0
+      }
+   },
+   "214": {
+      "Tool error": "error: tool timed out"
+   },
+   "215": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "216": {
+      "% size change from MBA": 31.57894736842105,
+      "deobf mba expression": "(-~(-d)&(145-c+d+2*(-68^87&b)+2*(40^-200&b)+2*(-189^(144|b)))*(c&b*d))+((~c+d)*(c&b*d)&-56-d+2*(-5^132&c)-(-35&c)+2*(144&c)+(29^-44&c)+(38|9&c))+(-~(-d)^128-(90^37&b)-(-c|-42&c)+(~c+d)*(c&b*d)+((-38|b)&(-c|-42&c))+(-38|b|-c|4&c))",
+      "traits": {
+         "size": 136,
+         "% alternated": 45.714285714285715,
+         "% unique": 72.3076923076923,
+         "% cse": 27.692307692307693,
+         "num equivalent subtrees to GT": 13,
+         "% size mba increase from GT ": 983.3333333333334
+      }
+   },
+   "217": {
+      "% size change from MBA": 25.6,
+      "deobf mba expression": "-(b*~b*c^-199+b+2*(61|2&d)+(-94^d)+(-49^34&d)+(b&d^(93|d))+(127|d))+(b*~b*c|253+2*(58|b)-(1&b)+2*(-41^168&b)+2*(-137^26&b)+2*(-19^26&b)+2*(-19^50&b)+2*(-b|2147483611^-134&b)+((101^132&b)&(b|d))+(36^-b^-134&b)+(101|b|d))+(b*~b*c|21+2*(97|d)+2*(254^-89&d)+(-65&c&-c)+(b&~d^64&d)+(-167^d)+(-256^-160&d)+(-184^-224&d)+(c|-c)+(-116|64&c&-c))",
+      "traits": {
+         "size": 197,
+         "% alternated": 39.80582524271845,
+         "% unique": 89.24731182795699,
+         "% cse": 10.75268817204301,
+         "num equivalent subtrees to GT": 13,
+         "% size mba increase from GT ": 1228.5714285714287
+      }
+   },
+   "218": {
+      "Tool error": "error: tool timed out"
+   },
+   "219": {
+      "% size change from MBA": 95.83333333333334,
+      "deobf mba expression": "-~(a&b|~b&-e+(a^b^e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "220": {
+      "Tool error": "error: tool timed out"
+   },
+   "221": {
+      "% size change from MBA": 31.428571428571427,
+      "deobf mba expression": "((b^2*b)+(e^-e)&-79-b-e+2*(e^~b&(65^e))+(-66^-15&b)+(14|b))+((b^2*b)+(e^-e)|b^~e)",
+      "traits": {
+         "size": 53,
+         "% alternated": 57.14285714285714,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 10,
+         "% size mba increase from GT ": 300.0
+      }
+   },
+   "222": {
+      "Tool error": "error: tool timed out"
+   },
+   "223": {
+      "Tool error": "error: tool timed out"
+   },
+   "224": {
+      "% size change from MBA": 65.71428571428571,
+      "deobf mba expression": "2*(~(b^2*b)|-b&(b|d))-(~(b^2*b)^-b&(b|d))",
+      "traits": {
+         "size": 29,
+         "% alternated": 37.5,
+         "% unique": 33.33333333333333,
+         "% cse": 66.66666666666666,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 140.0
+      }
+   },
+   "225": {
+      "% size change from MBA": 49.01960784313725,
+      "deobf mba expression": "~(a&212-2*(182&-a)+2*(-183|255*a)+2*(-27|e|~(1^-e))-(1^(-28|e|~(1^-e)))+2*(183|-e&(2147483456|e))+2*(-183&-a|1^-e^(-28|e))+(-e&(-2|a))+(1&~a&-e)+(-a^e)+(1^-28&e)+(-184^(1^-e)&(-28|e))+(-2^-e^-183&-a^(-28|e)))",
+      "traits": {
+         "size": 121,
+         "% alternated": 38.23529411764706,
+         "% unique": 80.76923076923077,
+         "% cse": 19.230769230769234,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 1200.0
+      }
+   },
+   "226": {
+      "Tool error": "result excluded from dataset because optimized ground truth has single var or no ops"
+   },
+   "227": {
+      "Tool error": "error: tool timed out"
+   },
+   "228": {
+      "Tool error": "error: tool timed out"
+   },
+   "229": {
+      "Tool error": "error: tool timed out"
+   },
+   "230": {
+      "Tool error": "error: tool timed out"
+   },
+   "231": {
+      "% size change from MBA": 35.18518518518518,
+      "deobf mba expression": "196+2*(-17^160&d&e)+(16&-(-17|d&e))+(-25&d&e)+(-2^-22&d&e)+(-169^-22&d&e)+(1|-22&d&e)+(25|-22&d&e)+(-34|2*(d&e)|-(-17|d&e))",
+      "traits": {
+         "size": 73,
+         "% alternated": 37.83783783783784,
+         "% unique": 62.857142857142854,
+         "% cse": 37.142857142857146,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 1650.0
+      }
+   },
+   "232": {
+      "% size change from MBA": 37.66233766233766,
+      "deobf mba expression": "-7+2*(8&-a)+c*(a+d)+(c&-d)+(-15&~(-a))+(43&~a&d)+(11&a&d&(9^14&-a))+(14^-a)+(43^d)+(-44|d)+(42&a&d|9^14&-a)|89-2*(81&a)-(-63&-d^(-85|c))+2*(-c|64&~c&-d)-(-c^64&~c&-d)+(1&a)+((15^81&a)&(-63^-d))+(81&a&(-85|c))+(-149&d&(-85|c|80&a))+(-149^d)+(84^c)+(148^d&(148^-~(2*(-2&-(~a&c))+(-2^-(~a&c)))))+(-85|c)+(62|-d)+(-16|81&a)+(15^81&a|-63^-d)+(-85|c|-63&-d)+(-85|c|80&a|64&d)",
+      "traits": {
+         "size": 212,
+         "% alternated": 38.26086956521739,
+         "% unique": 69.79166666666666,
+         "% cse": 30.208333333333332,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 1500.0
+      }
+   },
+   "233": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "e|~c&-a+e",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "234": {
+      "Tool error": "error: tool timed out"
+   },
+   "235": {
+      "Tool error": "error: tool timed out"
+   },
+   "236": {
+      "% size change from MBA": 26.923076923076923,
+      "deobf mba expression": "-(c^c*d^-107+2*(-43&d)-(c&-c+d)+2*(141|-174&d)+2*(-41^-81&d)+(120^d)+(-130^-41&d)+(-33^-41&d)+(-3^66&d)+(32|4&d)+(32|-58&d|-111^-124&d))+(8+2*(-49|d)+2*(1|-d&(48^d))+(c&-c)+(1&d&(c|-c))+(40^(c|-c|1&d))+(48^d^-d)+(c|-c+d)+(82|1&d)+(-82|c^-c)|c^c*d)+(c|c*d|117+d-2*(-97&c)+2*(-115|2&c)+(16&c)+(-10^105&c)+(115^6&c)+(8|-128&c))",
+      "traits": {
+         "size": 200,
+         "% alternated": 40.38461538461539,
+         "% unique": 83.15789473684211,
+         "% cse": 16.842105263157894,
+         "num equivalent subtrees to GT": 11,
+         "% size mba increase from GT ": 850.0
+      }
+   },
+   "237": {
+      "Tool error": "error: tool timed out"
+   },
+   "238": {
+      "Tool error": "error: tool timed out"
+   },
+   "239": {
+      "Tool error": "error: tool timed out"
+   },
+   "240": {
+      "% size change from MBA": 19.801980198019802,
+      "deobf mba expression": "70-(-77&a)+2*(1&a)-(a^-a)-(1&a|-70&-a)+(-145&~(-a))+(-70&-a)+((-69^-2&(-70^-a)&(76|a))&(77|a))+(-145&-a&(77|a))+(-70&-a&(-69^(77|a)))+(-69^-2&(-70^-a)&(76|a))+(69|(-70^-a)&(76|a))+(69|-a)+(-70&~(-a)&(76|a)|(77|a|-70^-a)^(77|a|-222&-a))+((-213|-a)&(1&a|-70&-a)|-69^-2&(-70^-a)&(76|a)^(77|a))+(77|a|-70^-a)+(77|a|(-70|~(-a))&(69|-a))",
+      "traits": {
+         "size": 185,
+         "% alternated": 33.980582524271846,
+         "% unique": 49.382716049382715,
+         "% cse": 50.617283950617285,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 1250.0
+      }
+   },
+   "241": {
+      "Tool error": "error: tool timed out"
+   },
+   "242": {
+      "Tool error": "error: tool timed out"
+   },
+   "243": {
+      "Tool error": "error: tool timed out"
+   },
+   "244": {
+      "Tool error": "error: tool timed out"
+   },
+   "245": {
+      "% size change from MBA": 53.84615384615385,
+      "deobf mba expression": "2*c-2*e-(-e^(c|e))",
+      "traits": {
+         "size": 14,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "246": {
+      "Tool error": "error: tool timed out"
+   },
+   "247": {
+      "Tool error": "error: tool timed out"
+   },
+   "248": {
+      "% size change from MBA": 37.5,
+      "deobf mba expression": "2*(-117|-~(c&~d))+2*(118|-~(c&~d))+(-3^-~(c&~d))",
+      "traits": {
+         "size": 21,
+         "% alternated": 60.0,
+         "% unique": 70.0,
+         "% cse": 30.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 150.0
+      }
+   },
+   "249": {
+      "Tool error": "error: tool timed out"
+   },
+   "250": {
+      "Tool error": "error: tool timed out"
+   },
+   "251": {
+      "Tool error": "error: tool timed out"
+   },
+   "252": {
+      "Tool error": "result excluded from dataset because optimized ground truth has single var or no ops"
+   },
+   "253": {
+      "% size change from MBA": 33.80281690140845,
+      "deobf mba expression": "-b|-14-(b|-~(2*(-2&-(a&e))+(-2^-(a&e))))-(1&-b^(-3|a|b)&(46|a|-b))-((73|b)^(-3|a))-(-3&a^(46|-b))+(1&-b)+((-138^(46|-b))&(-a|-e))+((-3|a|b)&(46|a|-b))+(137&(46|-b))+(137&-a&e&-e)+(137^(46|-b))+(1^(-130|-b)&(137|-a&-e))+(1&-b^(-3|a))+(-138^(46|-b)^(-a|-e))+(-74|b)+(-119|e)+(-3|a)+(-47|-b)+(~(-3|a)|1&-b)+(1&-b|(-3|a|b)&(46|a|-b))+(-119&e|137&-a&-e)+(2&~a&b|-47&a&~(-b))+(-a|-e|137^(46|-b))",
+      "traits": {
+         "size": 222,
+         "% alternated": 42.51968503937008,
+         "% unique": 58.51063829787234,
+         "% cse": 41.48936170212766,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 1780.0
+      }
+   },
+   "254": {
+      "Tool error": "error: tool timed out"
+   },
+   "255": {
+      "% size change from MBA": 42.72727272727273,
+      "deobf mba expression": "-(a^162+a+2*b+2*(20&a)+2*(-33|63*b)-(32&-b)+2*(-33&-b&(20|a)&(-168|-a))+2*((-33&-b^(20|a))&(148|-168&-a))+2*(33|-184&-a)-(148^-168&-a)+(-33&(183|~(-a)))+(-33&-b&(20|a))+(-33&-b^(20|a)&(-168|-a))+(-33&-b^(20|a)^(148|-168&-a))+(-164|a|-a)+(-132|a|-a|255+b))",
+      "traits": {
+         "size": 144,
+         "% alternated": 40.0,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 800.0
+      }
+   },
+   "256": {
+      "% size change from MBA": 37.83783783783784,
+      "deobf mba expression": "-c*e+(-~b*(b|c)&-c*e|~(-c*e)&-11+2*(8|b)+b*~(-(b|c))+(4&~b)+(-9^-5&b)+(b|c))",
+      "traits": {
+         "size": 54,
+         "% alternated": 43.333333333333336,
+         "% unique": 73.91304347826086,
+         "% cse": 26.08695652173913,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 283.33333333333337
+      }
+   },
+   "257": {
+      "Tool error": "error: tool timed out"
+   },
+   "258": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "259": {
+      "Tool error": "error: tool timed out"
+   },
+   "260": {
+      "Tool error": "error: tool timed out"
+   },
+   "261": {
+      "Tool error": "error: tool timed out"
+   },
+   "262": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "263": {
+      "Tool error": "error: tool timed out"
+   },
+   "264": {
+      "% size change from MBA": 77.77777777777779,
+      "deobf mba expression": "~(e^c*(2*a+2*(2*a|c))^a-c*c)",
+      "traits": {
+         "size": 22,
+         "% alternated": 36.36363636363637,
+         "% unique": 80.0,
+         "% cse": 20.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 42.857142857142854
+      }
+   },
+   "265": {
+      "Tool error": "error: tool timed out"
+   },
+   "266": {
+      "Tool error": "error: tool timed out"
+   },
+   "267": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "268": {
+      "Tool error": "error: tool timed out"
+   },
+   "269": {
+      "Tool error": "error: tool timed out"
+   },
+   "270": {
+      "% size change from MBA": 66.66666666666666,
+      "deobf mba expression": "-(a^c)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "271": {
+      "Tool error": "error: tool timed out"
+   },
+   "272": {
+      "Tool error": "error: tool timed out"
+   },
+   "273": {
+      "Tool error": "error: tool timed out"
+   },
+   "274": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "~d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "275": {
+      "% size change from MBA": 36.885245901639344,
+      "deobf mba expression": "~(d*~d)|~(118^-d^-e^(-157|-d|e))+2*(156&-d&~e|-157&d&e&~(-d))+3*(-d&(-157|e))+e*(d&e)+2*(2|2147483647+d^2147483489&d&e)+((118^-e)&(-d|~(-157|e)))+(1&(d|-157&e))+((1^(d|-157&e))&(-2|d|-157&e))+(118&d&-e&(98|-d|e))+(~(-3^-d)^-157&d&e)+(d|118&-e)+(39|118&-e)+(~(-d)&(-157|e)|118^-e)+(1|38&-e)+(-157|-d|e|20&d&-e)",
+      "traits": {
+         "size": 181,
+         "% alternated": 35.92233009708738,
+         "% unique": 74.02597402597402,
+         "% cse": 25.97402597402597,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 1440.0
+      }
+   },
+   "276": {
+      "Tool error": "error: tool timed out"
+   },
+   "277": {
+      "Tool error": "error: tool timed out"
+   },
+   "278": {
+      "Tool error": "error: tool timed out"
+   },
+   "279": {
+      "Tool error": "error: tool timed out"
+   },
+   "280": {
+      "Tool error": "error: tool timed out"
+   },
+   "281": {
+      "Tool error": "error: tool timed out"
+   },
+   "282": {
+      "% size change from MBA": 28.30188679245283,
+      "deobf mba expression": "278+3*(-151&(c|e))-(-2&(c|e))+2*(-5^5&(c|e))+(-148^(c|e))+(-151^(c|e))+(9^1&(c|e))+(133^-151&(c|e))+(4^5&(c|e))+(-134|-151&(c|e))+(19|4&(c|e))",
+      "traits": {
+         "size": 77,
+         "% alternated": 26.31578947368421,
+         "% unique": 60.526315789473685,
+         "% cse": 39.473684210526315,
+         "num equivalent subtrees to GT": 10,
+         "% size mba increase from GT ": 533.3333333333333
+      }
+   },
+   "283": {
+      "% size change from MBA": 9.836065573770492,
+      "deobf mba expression": "-(-e|-9+2*(59|e)-(-87&-e)-(-128&~e&-e)+e*(-(-2^(e|-e))+(2|-2-(e^-e)))+2*(4|24&e|-87&-e)-((-87&-e|(57|e)^(-87|-e))^(-e|~(-87^(-71|e))))-((26|33&e)^(57|e))-(24&e^(4|-87&-e))+((57|e)&(-87|-e))+(3|-128&~e&-e)+(5|-128&~e&-e))",
+      "traits": {
+         "size": 130,
+         "% alternated": 39.189189189189186,
+         "% unique": 69.0909090909091,
+         "% cse": 30.909090909090907,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 816.6666666666666
+      }
+   },
+   "284": {
+      "Tool error": "error: tool timed out"
+   },
+   "285": {
+      "Tool error": "error: tool timed out"
+   },
+   "286": {
+      "Tool error": "error: tool timed out"
+   },
+   "287": {
+      "Tool error": "error: tool timed out"
+   },
+   "288": {
+      "% size change from MBA": 60.0,
+      "deobf mba expression": "2*c+(a|2*c)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 50.0,
+         "% cse": 50.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "289": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "290": {
+      "Tool error": "error: tool timed out"
+   },
+   "291": {
+      "Tool error": "error: tool timed out"
+   },
+   "292": {
+      "% size change from MBA": 91.4691943127962,
+      "deobf mba expression": "69-(37^a&c)+(1|-37&a&c)+(-137|1&a&c)+(1&a&c|37^-37&a&c)",
+      "traits": {
+         "size": 37,
+         "% alternated": 22.22222222222222,
+         "% unique": 55.55555555555556,
+         "% cse": 44.44444444444444,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 350.0
+      }
+   },
+   "293": {
+      "% size change from MBA": 35.77235772357724,
+      "deobf mba expression": "(b&-247+2*(-9&d)-(d|b*d)+2*(-57^-112&d)+3*(-33^-41&d)+2*(-32^40&d)+2*(2*(121|d)&(122^40&d))+(-61&~(32&d))+(62^-41&d)+(159^40&d)+(122^2*(121|d)^40&d))+(b&-87+2*(82&~b)-(d|b*d)+(-83^-2&b)+(103^40&d&-d)+(-82^-41&d&-d)+(-206^80&-(d^-d))+(d|-d)+(1|b)+(242|-(d^-d))+(-52|16&-(d^-d)))+(b^-(d|b*d))",
+      "traits": {
+         "size": 171,
+         "% alternated": 50.54945054945055,
+         "% unique": 73.41772151898735,
+         "% cse": 26.582278481012654,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 887.5
+      }
+   },
+   "294": {
+      "Tool error": "error: tool timed out"
+   },
+   "295": {
+      "Tool error": "error: tool timed out"
+   },
+   "296": {
+      "Tool error": "error: tool timed out"
+   },
+   "297": {
+      "% size change from MBA": 44.85294117647059,
+      "deobf mba expression": "(2*b&15-(6&d)+2*(22&d)+2*(-128&d&-d)-d*(b^d)+(-127&d&(-8^-d))+(-112^-8&d)+(1&d|97&-d)+(97|-d|-128&d))+(2*b&d*(-35-b-d-2*(b&d^(-35|d))+(13^47&d)+(-48|d)))+(2*b^-508-(250&~b)-3*(2&b)-2*(-4&b)+2*(139&b)+2*(243^2147483516&b|9^121&b)-d*(b^d)+(9^121&b)+(247^129&b))",
+      "traits": {
+         "size": 156,
+         "% alternated": 40.0,
+         "% unique": 82.66666666666667,
+         "% cse": 17.333333333333336,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 733.3333333333333
+      }
+   },
+   "298": {
+      "% size change from MBA": 88.23529411764706,
+      "deobf mba expression": "2+(-2^1&-(b^2*b))+(1|-~(-(b^2*b)+2*(14|129&b)+2*(1|(2147483616^132&b)&(132|b|-b))+2*(-180|-b&(131|b))-(4&-b^(-180|-b&(131|b)))+(4&-b)+(-41^-180&-b&(12|b))+(-2^(-31^133&b)&(133|b|-b))+(90|-384&-(b^-b))+(-27|(16|b)&(10|b|-b))))",
+      "traits": {
+         "size": 18,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "299": {
+      "Tool error": "error: tool timed out"
+   },
+   "300": {
+      "Tool error": "error: tool timed out"
+   },
+   "301": {
+      "Tool error": "error: tool timed out"
+   },
+   "302": {
+      "% size change from MBA": 29.059829059829063,
+      "deobf mba expression": "a^37+5*(1&c)-(-39&c)+2*(19^-2&(-c^(2147483608|c)))-(-39&c^-23&-c)-(18^-c^1&a&c^(-39|c))+2*(-39|c|36^-c)+2*(~a|4&-c|1^-39&c)+2*(1^(2147483609&c|4&-c))+(c&a-c)+(-23&-c&~(-39&c))+(-2^~(1&a&c)&(18^-c^(-39|c)))+(-2^(-39&c|4&-c))+(-2^-39&c^(~a|4&-c))+(a|4&-c)+(23|-c)+(-39&c|-23&-c)+(1&a&c|18^-c^(-39|c))",
+      "traits": {
+         "size": 185,
+         "% alternated": 32.67326732673268,
+         "% unique": 61.44578313253012,
+         "% cse": 38.55421686746988,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 1283.3333333333335
+      }
+   },
+   "303": {
+      "Tool error": "error: tool timed out"
+   },
+   "304": {
+      "% size change from MBA": 80.55555555555556,
+      "deobf mba expression": "-171+2*(178&-c)+2*(-120&-c)+c*(2+c*e)+(84&e)+(197&(-120^-c))+(-198|-120^-c)+(30|-95&e)",
+      "traits": {
+         "size": 47,
+         "% alternated": 40.0,
+         "% unique": 90.47619047619048,
+         "% cse": 9.523809523809524,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 600.0
+      }
+   },
+   "305": {
+      "Tool error": "error: tool timed out"
+   },
+   "306": {
+      "% size change from MBA": 24.489795918367346,
+      "deobf mba expression": "2*(b*(e&a*e)&-~(a^b^e))+(47-a+b*(e&a*e)+2*(-197|a)+(215^-152&a)+(132^151&a)^66-(b&(a^e))+2*(62|b)+(~b&(a^e))+(-61^125&b)+(-128^-126&b))",
+      "traits": {
+         "size": 76,
+         "% alternated": 47.368421052631575,
+         "% unique": 78.37837837837837,
+         "% cse": 21.62162162162162,
+         "num equivalent subtrees to GT": 9,
+         "% size mba increase from GT ": 428.57142857142856
+      }
+   },
+   "307": {
+      "Tool error": "error: tool timed out"
+   },
+   "308": {
+      "Tool error": "error: tool timed out"
+   },
+   "309": {
+      "% size change from MBA": 49.23076923076923,
+      "deobf mba expression": "(e&-2*a-(5&e)+2*(144&e&-e)+(-145&e)+(12&-e)+(e&(5|144&-e))+(148^144&e&-e)+(28|-e^128&e)+(-177|16&(e^-e)))+(e&-227-4*a+2*(253^130&a)+4*(-141|a)+2*(142^-131&a))+(e^-104-2*a-(130|a|-a)+2*(64&(a|-a))+(98^80&(a|-a))+(16|45&(a|-a))+(119|-256&(a|-a)))",
+      "traits": {
+         "size": 144,
+         "% alternated": 42.857142857142854,
+         "% unique": 87.87878787878788,
+         "% cse": 12.121212121212121,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 1220.0
+      }
+   },
+   "310": {
+      "Tool error": "error: tool timed out"
+   },
+   "311": {
+      "Tool error": "error: tool timed out"
+   },
+   "312": {
+      "% size change from MBA": 47.19101123595505,
+      "deobf mba expression": "-c+2*(66&a)-2*(71&a)+2*(c^a&(5^c))^304-(3&a&-c)-2*(140&-a)+2*(-5|-a|c)+2*(-3^10&a&-c)-((-6|c)^(-141|-a))+(-6&c)+(-4&a&-c)+(-10^a&-c)+(10^(-141|-a))+(-9|-a)+(2|8&-a)",
+      "traits": {
+         "size": 106,
+         "% alternated": 44.827586206896555,
+         "% unique": 95.74468085106383,
+         "% cse": 4.25531914893617,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 1466.6666666666665
+      }
+   },
+   "313": {
+      "% size change from MBA": 37.3134328358209,
+      "deobf mba expression": "a*a&143-(a&d)-(127&d)-2*(-a|-d)+2*(-257|-a|-d)+2*(39|88&(-a|-d))+2*(333|-a|-d|50&d)-d*d+(127&d&(-a|-d))+(-40^93&(-a|-d))+(-334^-94&(-a|-d)^(-a|-d|127&d))",
+      "traits": {
+         "size": 101,
+         "% alternated": 46.55172413793103,
+         "% unique": 78.57142857142857,
+         "% cse": 21.428571428571427,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 500.0
+      }
+   },
+   "314": {
+      "Tool error": "error: tool timed out"
+   },
+   "315": {
+      "% size change from MBA": 39.02439024390244,
+      "deobf mba expression": "125-c-(22&b)-2*(126&-b&-c)-b*~(-(b&c)-c*c)+(22&b&-b&-c)+(1|126&-b&-c)+(-127|22&b|-b&-c)",
+      "traits": {
+         "size": 61,
+         "% alternated": 45.714285714285715,
+         "% unique": 72.0,
+         "% cse": 28.000000000000004,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 257.14285714285717
+      }
+   },
+   "316": {
+      "% size change from MBA": 95.06172839506173,
+      "deobf mba expression": "2*a+~c&(~a|-c)",
+      "traits": {
+         "size": 12,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "317": {
+      "Tool error": "error: tool timed out"
+   },
+   "318": {
+      "Tool error": "error: tool timed out"
+   },
+   "319": {
+      "% size change from MBA": 97.87234042553192,
+      "deobf mba expression": "e+(a&e)",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "320": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "~(-a)",
+      "traits": {
+         "size": 3,
+         "% alternated": 50.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "321": {
+      "Tool error": "error: tool timed out"
+   },
+   "322": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "~b",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "323": {
+      "Tool error": "error: tool timed out"
+   },
+   "324": {
+      "Tool error": "error: tool timed out"
+   },
+   "325": {
+      "Tool error": "error: tool timed out"
+   },
+   "326": {
+      "Tool error": "error: tool timed out"
+   },
+   "327": {
+      "% size change from MBA": 94.28571428571428,
+      "deobf mba expression": "-2+2*a-d*d^~c&d",
+      "traits": {
+         "size": 14,
+         "% alternated": 14.285714285714285,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "328": {
+      "Tool error": "error: tool timed out"
+   },
+   "329": {
+      "Tool error": "error: tool timed out"
+   },
+   "330": {
+      "Tool error": "error: tool timed out"
+   },
+   "331": {
+      "% size change from MBA": 82.53968253968253,
+      "deobf mba expression": "2*(1&(a|~e))+(1^~(-(~a&e)))+(d|e*(-a+(d|e)))",
+      "traits": {
+         "size": 28,
+         "% alternated": 43.75,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 57.14285714285714
+      }
+   },
+   "332": {
+      "Tool error": "error: tool timed out"
+   },
+   "333": {
+      "% size change from MBA": 43.41085271317829,
+      "deobf mba expression": "-(101+(d^-e)+(-32^(159|e))+(28|-160&e)^-293-(e^d*e)+(d&(2|131&~(-d)))+(167|d)+(3|36&d)+(122|129&d&-d))+(~(-d+(e^d*e))|d^-e)+(428-e+2*(-144&~(6&e))+2*(1&d)+2*(-e^(d|-21^-e))+(1^-85&d)+(-99^84&d)|-428-(e^d*e)+2*(129&d)+2*(153^-62&d)+(60&d)+(-137^-62&d)+(127^21&d)+(131|20&d))",
+      "traits": {
+         "size": 158,
+         "% alternated": 45.23809523809524,
+         "% unique": 83.56164383561644,
+         "% cse": 16.43835616438356,
+         "num equivalent subtrees to GT": 16,
+         "% size mba increase from GT ": 812.5
+      }
+   },
+   "334": {
+      "% size change from MBA": 45.83333333333333,
+      "deobf mba expression": "193+2*(1&c&~d)-(1|~c|d)+2*(-66|1&(~c|d))+(1&c&~d^(-66|1&(~c|d)))+(2*(1&c&~d)|1&(~c|d))",
+      "traits": {
+         "size": 60,
+         "% alternated": 21.21212121212121,
+         "% unique": 38.46153846153847,
+         "% cse": 61.53846153846154,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 188.88888888888889
+      }
+   },
+   "335": {
+      "Tool error": "error: tool timed out"
+   },
+   "336": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "e",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "337": {
+      "Tool error": "error: tool timed out"
+   },
+   "338": {
+      "Tool error": "error: tool timed out"
+   },
+   "339": {
+      "% size change from MBA": 31.19266055045872,
+      "deobf mba expression": "414+2*(-4&a&d)-3*(134&a&d)+(-142&(-135|~(a&d)))+(-136&(-135^(1|a&d)))+(-86&a&d)+(182&a&d)+(-2^a&d)+(11^134&~(a&d))+(-75^6&a&d)+(-81^-2&a&d)+(22^-81&(1|a&d)^(1|182&a&d))+(183|a&d)+(-142|134&a&d)+(-119|6&a&d)+(74|6&a&d)+(134|-135^(1|a&d))+(1|182&a&d)+(-136|134&a&d)",
+      "traits": {
+         "size": 153,
+         "% alternated": 23.376623376623375,
+         "% unique": 57.333333333333336,
+         "% cse": 42.66666666666667,
+         "num equivalent subtrees to GT": 14,
+         "% size mba increase from GT ": 837.5
+      }
+   },
+   "340": {
+      "Tool error": "error: tool timed out"
+   },
+   "341": {
+      "Tool error": "error: tool timed out"
+   },
+   "342": {
+      "% size change from MBA": 55.55555555555556,
+      "deobf mba expression": "53-128*c+2*(-55&63*c)-(54^-c)+(c&-~(2*(-2&-(b&~d))+(-2^-(b&~d))))^-85+c+2*(-31|16&c)-(-d&(-82|b))-2*(-45&-b)-(-17&-b)+2*(3&(44|-b))+2*(8|~b|81&-d|16&-b)-((~b|81&-d)^(8|16&-b))+(-28&(44|-b))+(93^-d)+(31^16&c)+(20^(-17|c))+(-77^-82&-d)+(63|-b)&(b^d)",
+      "traits": {
+         "size": 136,
+         "% alternated": 44.0,
+         "% unique": 86.66666666666667,
+         "% cse": 13.333333333333334,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 757.1428571428571
+      }
+   },
+   "343": {
+      "Tool error": "error: tool timed out"
+   },
+   "344": {
+      "Tool error": "error: tool timed out"
+   },
+   "345": {
+      "Tool error": "result excluded from dataset because optimized ground truth has single var or no ops"
+   },
+   "346": {
+      "Tool error": "error: tool timed out"
+   },
+   "347": {
+      "% size change from MBA": 30.89430894308943,
+      "deobf mba expression": "-(~b*(-103+2*(b&~(b-d))-2*(-106&-a)+2*(117|b|-d)-(~(-d)&(116|b))+2*(144|2147483398&-a|-b&d)-(-106&-a^(144|-b&d))+(-145&~(-b&d))+((-b^d)&(105|-a))+(-118^-117&(b|-d))+(-b^d^(105|-a))+(105|-a|~(-b^d)))^156-2*(1&b)+2*(-246&-a)-(-b&a-d)-(-2&b)+2*(-2|a|b|d)-((-2|b)^(-150|a|-d))+(172&(112|-a))+(-113^-a)+(172^(112|-a))+(-150^-113&-a)+(149|a)+(-141|-a)+(-150|a|~(-d)))",
+      "traits": {
+         "size": 202,
+         "% alternated": 46.55172413793103,
+         "% unique": 82.35294117647058,
+         "% cse": 17.647058823529413,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 1316.6666666666665
+      }
+   },
+   "348": {
+      "% size change from MBA": 75.0,
+      "deobf mba expression": "2*b+(2*b|e)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 50.0,
+         "% cse": 50.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "349": {
+      "Tool error": "error: tool timed out"
+   },
+   "350": {
+      "% size change from MBA": 7.563025210084033,
+      "deobf mba expression": "(b&-37-a-(-e&a*(b^e))+2*(65&a&b|-95&e^(a|b))-(b^-95&e^a&(65|~b))-((-e^(-95|e))&(135|-b))-((135|-b|-e)^(94|a|b|~e))+2*((135|-b)&(2147483553|e|-e))+2*(-2147483425|a|b|-b|~e|-e)+(-95&e)+(-95&e&(a|b))+(65^a&b)+(-136^-b)+(-66|a&b)+(-89|-b|e))+(b|-100+3*(65&e&-e)-(-e&a*(b^e))+(95&b)+((95|b)&(-82|-b))+((65^e&(-66|-e))&(23|-a))+(a&(23|-a)&(-82|-b))+(-e^65&e)+(81^-b)+(-24^-a)+(-82|a|-b)+(23|-a|64^e&(-65|-e))+(23|-a|a&(-88|-b)))",
+      "traits": {
+         "size": 250,
+         "% alternated": 42.44604316546763,
+         "% unique": 77.27272727272727,
+         "% cse": 22.727272727272727,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 2100.0
+      }
+   },
+   "351": {
+      "Tool error": "error: tool timed out"
+   },
+   "352": {
+      "Tool error": "error: tool timed out"
+   },
+   "353": {
+      "Tool error": "error: tool timed out"
+   },
+   "354": {
+      "Tool error": "error: tool timed out"
+   },
+   "355": {
+      "Tool error": "error: tool timed out"
+   },
+   "356": {
+      "Tool error": "error: tool timed out"
+   },
+   "357": {
+      "Tool error": "error: tool timed out"
+   },
+   "358": {
+      "% size change from MBA": 35.77981651376147,
+      "deobf mba expression": "(-478+2*(239^-191&a)-(-b^d)+6*(-55&a)-4*(65&a)-6*(-120&a)-2*(-256&a)&(a|b))+(-94-(-b^d)+2*(95|-a|32&a)+(-55&a)+(54&a&-a)+(-96^(-a|54&a))&(a|b))+(-353-2*(8&d)-(-b&~(28&b))+2*(-b^~d&(190^-b))-(-100&b&-b)+2*(37|26&d)+(19^62&d)+(-151^-63&d)+(31|-128&b&-b)^(a|b))",
+      "traits": {
+         "size": 153,
+         "% alternated": 42.68292682926829,
+         "% unique": 87.14285714285714,
+         "% cse": 12.857142857142856,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 2233.333333333333
+      }
+   },
+   "359": {
+      "Tool error": "error: tool timed out"
+   },
+   "360": {
+      "Tool error": "error: tool timed out"
+   },
+   "361": {
+      "Tool error": "error: tool timed out"
+   },
+   "362": {
+      "Tool error": "error: tool timed out"
+   },
+   "363": {
+      "Tool error": "error: tool timed out"
+   },
+   "364": {
+      "Tool error": "error: tool timed out"
+   },
+   "365": {
+      "Tool error": "error: tool timed out"
+   },
+   "366": {
+      "Tool error": "error: tool timed out"
+   },
+   "367": {
+      "Tool error": "error: tool errored unsolveable"
+   },
+   "368": {
+      "Tool error": "error: tool timed out"
+   },
+   "369": {
+      "Tool error": "error: tool timed out"
+   },
+   "370": {
+      "Tool error": "error: tool timed out"
+   },
+   "371": {
+      "Tool error": "error: tool timed out"
+   },
+   "372": {
+      "Tool error": "error: tool timed out"
+   },
+   "373": {
+      "Tool error": "error: tool timed out"
+   },
+   "374": {
+      "% size change from MBA": 76.92307692307693,
+      "deobf mba expression": "-(c|e)-b*c",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "375": {
+      "Tool error": "error: tool timed out"
+   },
+   "376": {
+      "Tool error": "error: tool timed out"
+   },
+   "377": {
+      "Tool error": "error: tool timed out"
+   },
+   "378": {
+      "Tool error": "error: tool timed out"
+   },
+   "379": {
+      "Tool error": "error: tool timed out"
+   },
+   "380": {
+      "Tool error": "error: tool timed out"
+   },
+   "381": {
+      "% size change from MBA": 96.55172413793103,
+      "deobf mba expression": "-~(d*(e*(d|e)+(e|2*e)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "382": {
+      "Tool error": "error: tool timed out"
+   },
+   "383": {
+      "Tool error": "error: tool timed out"
+   },
+   "384": {
+      "Tool error": "error: tool timed out"
+   },
+   "385": {
+      "Tool error": "error: tool timed out"
+   },
+   "386": {
+      "Tool error": "error: tool timed out"
+   },
+   "387": {
+      "% size change from MBA": 65.0,
+      "deobf mba expression": "c+~e+b*(-2*e+2*(b^c))",
+      "traits": {
+         "size": 16,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 16.666666666666664
+      }
+   },
+   "388": {
+      "Tool error": "error: tool timed out"
+   },
+   "389": {
+      "Tool error": "error: tool timed out"
+   },
+   "390": {
+      "Tool error": "error: tool timed out"
+   },
+   "391": {
+      "Tool error": "error: tool timed out"
+   },
+   "392": {
+      "Tool error": "error: tool timed out"
+   },
+   "393": {
+      "Tool error": "error: tool timed out"
+   },
+   "394": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "395": {
+      "Tool error": "error: tool timed out"
+   },
+   "396": {
+      "Tool error": "error: tool timed out"
+   },
+   "397": {
+      "Tool error": "error: tool timed out"
+   },
+   "398": {
+      "% size change from MBA": 96.92307692307692,
+      "deobf mba expression": "-2+e-(a^-e*e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "399": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "-c*d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "400": {
+      "% size change from MBA": 99.28057553956835,
+      "deobf mba expression": "-~(3*b+3*d-(d&b+d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "401": {
+      "% size change from MBA": 54.09836065573771,
+      "deobf mba expression": "-189+2*(4&(c|d))+2*(1|40&(c|d))+(110^44&(c|d))+(3^67&(c|d))+(32|2&(c|d))+(-66|1&(c|d))+(108|c|d)",
+      "traits": {
+         "size": 57,
+         "% alternated": 25.0,
+         "% unique": 78.57142857142857,
+         "% cse": 21.428571428571427,
+         "num equivalent subtrees to GT": 12,
+         "% size mba increase from GT ": 459.99999999999994
+      }
+   },
+   "402": {
+      "Tool error": "error: tool timed out"
+   },
+   "403": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "404": {
+      "Tool error": "result excluded from dataset because optimized ground truth has single var or no ops"
+   },
+   "405": {
+      "Tool error": "error: tool timed out"
+   },
+   "406": {
+      "Tool error": "error: tool timed out"
+   },
+   "407": {
+      "Tool error": "error: tool timed out"
+   },
+   "408": {
+      "Tool error": "error: tool timed out"
+   },
+   "409": {
+      "Tool error": "error: tool timed out"
+   },
+   "410": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "-1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "411": {
+      "% size change from MBA": 63.934426229508205,
+      "deobf mba expression": "(d&-b+d&(a^b))+(112-(-d^(-132|d))+(d&(a^b))+(84&d)+(20|-216&d)+(-264|d^-d)|d&-b+d)",
+      "traits": {
+         "size": 49,
+         "% alternated": 46.15384615384615,
+         "% unique": 72.72727272727273,
+         "% cse": 27.27272727272727,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 340.0
+      }
+   },
+   "412": {
+      "Tool error": "error: tool timed out"
+   },
+   "413": {
+      "Tool error": "error: tool timed out"
+   },
+   "414": {
+      "Tool error": "error: tool timed out"
+   },
+   "415": {
+      "Tool error": "error: tool timed out"
+   },
+   "416": {
+      "Tool error": "error: tool timed out"
+   },
+   "417": {
+      "Tool error": "error: tool timed out"
+   },
+   "418": {
+      "Tool error": "error: tool timed out"
+   },
+   "419": {
+      "% size change from MBA": 47.77777777777778,
+      "deobf mba expression": "b|-86-(-120&a)-((123|b)^(-82|-a))-(123&b^-90&-a)+2*(123&b|-90&-a)+(69&a)+(~(-~b)&a-2*b)+(103^-51&a)+(-51&a^(-51^a)&(-45^89&-a))+(1^(2*(1&a)|-51&a))+(-51^a|-45^89&-a)+(36|81&-a)",
+      "traits": {
+         "size": 102,
+         "% alternated": 40.74074074074074,
+         "% unique": 72.3404255319149,
+         "% cse": 27.659574468085108,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 487.5
+      }
+   },
+   "420": {
+      "Tool error": "error: tool timed out"
+   },
+   "421": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "422": {
+      "Tool error": "error: tool timed out"
+   },
+   "423": {
+      "Tool error": "error: tool timed out"
+   },
+   "424": {
+      "Tool error": "error: tool timed out"
+   },
+   "425": {
+      "% size change from MBA": 36.666666666666664,
+      "deobf mba expression": "-114-(26|~b&d)+2*(63|~b&d)+2*(-33^44&~b&d)+(-32&((-38|~b&d)^(18|36&~b&d)))+(12&(18|63&~b&d))+(2&~b&d)+(110^18&~b&d)+(-32&((-38|~b&d)^(18|36&~b&d))^(18|37&~b&d))+(34^45&~b&d)+(-111|18&~b&d)+(~(-32&((-38|~b&d)^(18|36&~b&d)))|37&~b&d)+(-93|12&((-38|~b&d)^(18|36&~b&d)))+(179|63&~b&d)",
+      "traits": {
+         "size": 173,
+         "% alternated": 13.541666666666666,
+         "% unique": 46.05263157894737,
+         "% cse": 53.94736842105263,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 7500.0
+      }
+   },
+   "426": {
+      "% size change from MBA": 76.31578947368422,
+      "deobf mba expression": "a*(a*d+(d|a*d))*(a*d^a-d)",
+      "traits": {
+         "size": 19,
+         "% alternated": 55.55555555555556,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": -10.0
+      }
+   },
+   "427": {
+      "% size change from MBA": 87.65432098765432,
+      "deobf mba expression": "(2*(-2|c)&-(c^-2+c))+(2*(-2|c)|-(-2^c))",
+      "traits": {
+         "size": 23,
+         "% alternated": 91.66666666666666,
+         "% unique": 60.0,
+         "% cse": 40.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 66.66666666666666
+      }
+   },
+   "428": {
+      "% size change from MBA": 92.37288135593221,
+      "deobf mba expression": "-(-c^d)+c*c*(c-d)^a&2*c+d",
+      "traits": {
+         "size": 21,
+         "% alternated": 36.36363636363637,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 28.57142857142857
+      }
+   },
+   "429": {
+      "Tool error": "error: tool timed out"
+   },
+   "430": {
+      "Tool error": "error: tool timed out"
+   },
+   "431": {
+      "% size change from MBA": 88.40579710144928,
+      "deobf mba expression": "~(c^b&d)+d*(b^c)-(c^-c+d)",
+      "traits": {
+         "size": 19,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -11.11111111111111
+      }
+   },
+   "432": {
+      "% size change from MBA": 16.52173913043478,
+      "deobf mba expression": "130+2*(89^93&-e)+2*(2147483558|127+e|65&d)+(-37&-e)+(-92&d)+(-122^-e)+(-31^91&d)+(32^e)+(65&d^93&-e)+(89^93&-e^(-33|e))+(d|e)+(36|-e)+(-66|d)+(-33|e)|75-2*(d&d-e)+2*(-55&-e)-(-d&~(10&d))-(~(10&d)&(54|-e))+(20&-e)+((10^d)&(-64|-d))+((10&d^(54|-e))&(1|-190&e))+(161^-190&~e)+(28^54&-e)+(10&d|-55&~(-e))+(-29|54&-e)+(~(-64|-d)|10&d)+(10^d|10&d^(-64|-d))+(1|-190&e|10&d^(54|-e))",
+      "traits": {
+         "size": 216,
+         "% alternated": 41.17647058823529,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 1500.0
+      }
+   },
+   "433": {
+      "Tool error": "error: tool timed out"
+   },
+   "434": {
+      "Tool error": "error: tool timed out"
+   },
+   "435": {
+      "Tool error": "error: tool timed out"
+   },
+   "436": {
+      "Tool error": "error: tool timed out"
+   },
+   "437": {
+      "Tool error": "error: tool timed out"
+   },
+   "438": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "439": {
+      "Tool error": "error: tool timed out"
+   },
+   "440": {
+      "Tool error": "error: tool timed out"
+   },
+   "441": {
+      "Tool error": "error: tool timed out"
+   },
+   "442": {
+      "% size change from MBA": 50.0,
+      "deobf mba expression": "-(a|b)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "443": {
+      "Tool error": "error: tool timed out"
+   },
+   "444": {
+      "% size change from MBA": 71.72774869109948,
+      "deobf mba expression": "e*e|141-(41^(70|a))-(-72^e|31^e)+2*(-17|-a|-e|70&a)-((-17|-a)^(41|-e|70&a))-(-e^(41|70&a))+(-45&(-72|e))+(-51&(-5|e))+(-17&-a&(41|-e|70&a))+(-65^31&e)+(a|a+e)+(111|a)+(1|-112&a)+(41|-e|70&a|-17&-a)",
+      "traits": {
+         "size": 118,
+         "% alternated": 39.682539682539684,
+         "% unique": 72.22222222222221,
+         "% cse": 27.77777777777778,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 980.0000000000001
+      }
+   },
+   "445": {
+      "Tool error": "error: tool timed out"
+   },
+   "446": {
+      "% size change from MBA": 75.0,
+      "deobf mba expression": "d*e|d^2*d+(b|2*d)",
+      "traits": {
+         "size": 15,
+         "% alternated": 57.14285714285714,
+         "% unique": 71.42857142857143,
+         "% cse": 28.57142857142857,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 40.0
+      }
+   },
+   "447": {
+      "Tool error": "error: tool timed out"
+   },
+   "448": {
+      "Tool error": "error: tool timed out"
+   },
+   "449": {
+      "% size change from MBA": 60.0,
+      "deobf mba expression": "d*d+(1|d*d)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 50.0,
+         "% cse": 50.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "450": {
+      "Tool error": "error: tool timed out"
+   },
+   "451": {
+      "% size change from MBA": 33.557046979865774,
+      "deobf mba expression": "-91+2*(-12&a)+2*(122&-a)+2*(208&b|-12^a)+2*(122^-a|-16&b^-12&a)+(-16^b)+(219^-16&b)+(11^a^208&b)+(-123^-a^-16&b^-12&a)+(-220|-16&b)+(1|-16&a&b)+(11|~a|-16&b)^24-(-46&b)+a*(a^b)+2*(-65&-a|-68&a&-b)-(-65&-a^-68&a&-b)+(8&b)+((45^b)&(-65|-a))+(-68^a&-b)+(45^b^(-65|-a))+(-183|36&b)+(67|a&-b)+(-65|-a)+(136|1&b)+(~(-65|-a)|45^b)+(8|37&(a|-b))+(-137|a|-b)+(173|a|-b)",
+      "traits": {
+         "size": 217,
+         "% alternated": 38.46153846153847,
+         "% unique": 74.74747474747475,
+         "% cse": 25.252525252525253,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 1880.0
+      }
+   },
+   "452": {
+      "Tool error": "error: tool timed out"
+   },
+   "453": {
+      "% size change from MBA": 55.55555555555556,
+      "deobf mba expression": "-a-d-(a^-a*b)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "454": {
+      "Tool error": "error: tool timed out"
+   },
+   "455": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "456": {
+      "Tool error": "error: tool timed out"
+   },
+   "457": {
+      "Tool error": "error: tool timed out"
+   },
+   "458": {
+      "Tool error": "error: tool timed out"
+   },
+   "459": {
+      "% size change from MBA": 91.22807017543859,
+      "deobf mba expression": "a*(~a&d)+(a|-(a&~d))",
+      "traits": {
+         "size": 14,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "460": {
+      "Tool error": "error: tool timed out"
+   },
+   "461": {
+      "Tool error": "error: tool timed out"
+   },
+   "462": {
+      "Tool error": "error: tool timed out"
+   },
+   "463": {
+      "Tool error": "error: tool timed out"
+   },
+   "464": {
+      "Tool error": "error: tool timed out"
+   },
+   "465": {
+      "Tool error": "error: tool timed out"
+   },
+   "466": {
+      "% size change from MBA": 96.92307692307692,
+      "deobf mba expression": "-a*c*~c",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "467": {
+      "% size change from MBA": 76.0,
+      "deobf mba expression": "2*c&-2*c+(-a|-2*c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 71.42857142857143,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "468": {
+      "Tool error": "error: tool timed out"
+   },
+   "469": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "470": {
+      "% size change from MBA": 37.5,
+      "deobf mba expression": "153-(-17|a&b)-(1^a&b)-(84|1&a&b)-(-17&(1|a&b))-(16^(-17|a&b)&(84|1&a&b))+(-18&a&b)",
+      "traits": {
+         "size": 51,
+         "% alternated": 24.0,
+         "% unique": 52.0,
+         "% cse": 48.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 1150.0
+      }
+   },
+   "471": {
+      "Tool error": "error: tool timed out"
+   },
+   "472": {
+      "Tool error": "error: tool timed out"
+   },
+   "473": {
+      "Tool error": "error: tool timed out"
+   },
+   "474": {
+      "Tool error": "error: tool timed out"
+   },
+   "475": {
+      "Tool error": "error: tool timed out"
+   },
+   "476": {
+      "Tool error": "error: tool timed out"
+   },
+   "477": {
+      "% size change from MBA": 52.23880597014925,
+      "deobf mba expression": "-8+d+a*a-(-a&~d)-((-2|e)^(15|-e))+2*(15|-32&e)+(a^(d|e))+(-26^-2&e)+(4&-a&d^(-5|-a&d))+(-15^-26&e)+(-16|-e)+(25|e)",
+      "traits": {
+         "size": 71,
+         "% alternated": 36.84210526315789,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 540.0
+      }
+   },
+   "478": {
+      "Tool error": "error: tool timed out"
+   },
+   "479": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "480": {
+      "Tool error": "error: tool timed out"
+   },
+   "481": {
+      "% size change from MBA": 87.5,
+      "deobf mba expression": "b^d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "482": {
+      "% size change from MBA": 45.588235294117645,
+      "deobf mba expression": "-2*b^-(a|a*c|-237+a-(-a|-b)+2*(122|-a|-b)+(a&b)+(-7&~(-c))+(-19&(-a|-b))+((-19^(-a|-b))&(136|6&-c))+(6^-c)+(-123^-19&(-a|-b))+(136|6&-c|-155^(-a|-b)))",
+      "traits": {
+         "size": 93,
+         "% alternated": 54.54545454545454,
+         "% unique": 70.27027027027027,
+         "% cse": 29.72972972972973,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 428.57142857142856
+      }
+   },
+   "483": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "~b*b",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "484": {
+      "Tool error": "error: tool timed out"
+   },
+   "485": {
+      "% size change from MBA": 12.5,
+      "deobf mba expression": "309-(b^d)+b*(-b+d)+2*(5&-d|108&b)-(5&-d^108&b)+(1&-b)+(8&b&-b)+(-192&d&(-256|b))+(108^b)+(159^-6&-d)+(-120&-b^108&b)+(-155|-d)+(-192|d)+(-119|-b)+(1|154&-d)+(-109|~b|-120&-b)+(-109|b|64&d)",
+      "traits": {
+         "size": 111,
+         "% alternated": 40.98360655737705,
+         "% unique": 85.71428571428571,
+         "% cse": 14.285714285714285,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 600.0
+      }
+   },
+   "486": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "-1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "487": {
+      "Tool error": "error: tool timed out"
+   },
+   "488": {
+      "Tool error": "error: tool timed out"
+   },
+   "489": {
+      "Tool error": "error: tool timed out"
+   },
+   "490": {
+      "Tool error": "error: tool timed out"
+   },
+   "491": {
+      "Tool error": "error: tool timed out"
+   },
+   "492": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "~(2*a)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "493": {
+      "Tool error": "error: tool timed out"
+   },
+   "494": {
+      "% size change from MBA": 97.36842105263158,
+      "deobf mba expression": "-~(-a*~(~a*(-e*-e-(b|e*e))-b*~(a*(e*e+(b|e*e)))))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "495": {
+      "Tool error": "error: tool timed out"
+   },
+   "496": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "497": {
+      "% size change from MBA": 0.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "498": {
+      "Tool error": "error: tool timed out"
+   },
+   "499": {
+      "Tool error": "error: tool timed out"
+   },
+   "500": {
+      "Tool error": "error: tool timed out"
+   },
+   "501": {
+      "% size change from MBA": 19.444444444444446,
+      "deobf mba expression": "(a+b+(a&c))*(-28+c+(35&a)+(a+(a|c)&b+c)+(90&-a)+((-2|c)&(35|a))+(-8&-c&(88|-a))+(-96|6&-c)+(90|-a|-96&-c))",
+      "traits": {
+         "size": 65,
+         "% alternated": 48.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": 262.5
+      }
+   }
+}
