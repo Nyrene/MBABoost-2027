@@ -28,8 +28,13 @@ Please note that MBABoost supports a limited set of variable names: a, b, c, d, 
 The datasets for our paper are stored as follows:
 
 datasets/
+
     - original-mba-dataset-files/ // The comparison dataset files from prior works
-    - mba-traits // the results of our analysis of each expression for both MBABoost and prior works, stored in JSON format. The origin of each dataset (MBABoost-generated or original) is indicated in the filename.
+
+    - mba-traits // the results of our analysis of each expression for both MBABoost and prior works, stored in JSON format. The origin of each dataset  (MBABoost-generated or original) is indicated in the filename.
+
     - optimized-mba // the LLVM-optimized form of each MBA expression, stored in JSON format.
+
     - tool-output // the raw output of each tool run on the datasets, stored in JSON format.
+    
     - analysis-tool-output // the lifted MBA expression and analysis results for the tool output.
