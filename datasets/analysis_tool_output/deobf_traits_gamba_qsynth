@@ -1,0 +1,6002 @@
+{
+   "2": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "-c+d^c&~d",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "3": {
+      "% size change from MBA": 93.93939393939394,
+      "deobf mba expression": "a+c^a&a+d",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "4": {
+      "% size change from MBA": 96.05263157894737,
+      "deobf mba expression": "-(b^c)|b*c",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "5": {
+      "% size change from MBA": 91.22807017543859,
+      "deobf mba expression": "~(d^c+d)-(c^b*d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "6": {
+      "% size change from MBA": 97.05882352941177,
+      "deobf mba expression": "c+e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "7": {
+      "% size change from MBA": 95.83333333333334,
+      "deobf mba expression": "-~b",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "8": {
+      "% size change from MBA": 90.32258064516128,
+      "deobf mba expression": "-d+(e&e*e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "9": {
+      "% size change from MBA": 98.87640449438202,
+      "deobf mba expression": "~c*e",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "10": {
+      "% size change from MBA": 96.29629629629629,
+      "deobf mba expression": "~d&-(a&d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "11": {
+      "% size change from MBA": 99.19191919191918,
+      "deobf mba expression": "d*(-(b|d)+b*d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "12": {
+      "% size change from MBA": 84.0,
+      "deobf mba expression": "-d+(b*b|b&d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "13": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "14": {
+      "% size change from MBA": 96.9298245614035,
+      "deobf mba expression": "b*(~a-b*b)&(2*b^b*b)",
+      "traits": {
+         "size": 16,
+         "% alternated": 50.0,
+         "% unique": 71.42857142857143,
+         "% cse": 28.57142857142857,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": -12.5
+      }
+   },
+   "15": {
+      "% size change from MBA": 93.75,
+      "deobf mba expression": "d+(a^2*d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "16": {
+      "% size change from MBA": 95.45454545454545,
+      "deobf mba expression": "b+(b|e)",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "17": {
+      "% size change from MBA": 94.56521739130434,
+      "deobf mba expression": "~(d^a*e)&e*(~a-d)",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "18": {
+      "% size change from MBA": 88.23529411764706,
+      "deobf mba expression": "d&e&~(c-(d|e))",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "19": {
+      "% size change from MBA": 95.45454545454545,
+      "deobf mba expression": "-~(2*(d|a&b)+(a|b))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "20": {
+      "% size change from MBA": 91.40625,
+      "deobf mba expression": "-(d-2*(b&d)&(b|b*b))+(~b&b*b)+(b^d)",
+      "traits": {
+         "size": 25,
+         "% alternated": 53.84615384615385,
+         "% unique": 81.81818181818183,
+         "% cse": 18.181818181818183,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 57.14285714285714
+      }
+   },
+   "21": {
+      "% size change from MBA": 95.38461538461539,
+      "deobf mba expression": "a^e*(b-e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "22": {
+      "% size change from MBA": 94.73684210526315,
+      "deobf mba expression": "a^-(a&c)",
+      "traits": {
+         "size": 6,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "23": {
+      "% size change from MBA": 92.20779220779221,
+      "deobf mba expression": "~(-a*c+(c&d)^2*c+d)",
+      "traits": {
+         "size": 15,
+         "% alternated": 37.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "24": {
+      "% size change from MBA": 88.81118881118881,
+      "deobf mba expression": "~e+~(c&e)-(a&c-2*(c&e))-2*(a|~(a+(c|e))|c-2*(c&e))",
+      "traits": {
+         "size": 36,
+         "% alternated": 52.63157894736842,
+         "% unique": 56.25,
+         "% cse": 43.75,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 60.0
+      }
+   },
+   "25": {
+      "% size change from MBA": 93.75,
+      "deobf mba expression": "(c^d)+(-a|c)",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "26": {
+      "% size change from MBA": 92.64705882352942,
+      "deobf mba expression": "~(~(d+(2*c|d))&(c|d))",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "27": {
+      "% size change from MBA": 99.35897435897436,
+      "deobf mba expression": "-~(2*c+2*(d&-a+d)+d*(-3+a*(-a-d)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -87.5
+      }
+   },
+   "28": {
+      "% size change from MBA": 99.44289693593315,
+      "deobf mba expression": "-d*~(-d+e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "29": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "-2-2*b+a*e",
+      "traits": {
+         "size": 9,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 300.0
+      }
+   },
+   "30": {
+      "% size change from MBA": 80.0,
+      "deobf mba expression": "e|~(-c-d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "31": {
+      "% size change from MBA": 97.2972972972973,
+      "deobf mba expression": "-a*d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "32": {
+      "% size change from MBA": 98.33333333333333,
+      "deobf mba expression": "~(-a*c^(b|c))",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "33": {
+      "% size change from MBA": 86.95652173913044,
+      "deobf mba expression": "a|d|a*d",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "34": {
+      "% size change from MBA": 98.57142857142858,
+      "deobf mba expression": "c^(d|-~c)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -62.5
+      }
+   },
+   "35": {
+      "% size change from MBA": 98.47715736040608,
+      "deobf mba expression": "(a-d)*(a^b)*(a*(a^b)^~b*(-b+d))",
+      "traits": {
+         "size": 21,
+         "% alternated": 54.54545454545454,
+         "% unique": 77.77777777777779,
+         "% cse": 22.22222222222222,
+         "num equivalent subtrees to GT": 10,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "36": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "37": {
+      "% size change from MBA": 77.77777777777779,
+      "deobf mba expression": "b^-~a",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "38": {
+      "% size change from MBA": 90.69767441860465,
+      "deobf mba expression": "~(d*e)+a*(~(d*e))",
+      "traits": {
+         "size": 11,
+         "% alternated": 66.66666666666666,
+         "% unique": 50.0,
+         "% cse": 50.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "39": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "a+d|a*a^-(a&d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "40": {
+      "% size change from MBA": 97.2972972972973,
+      "deobf mba expression": "-c*~(-d)",
+      "traits": {
+         "size": 6,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "41": {
+      "% size change from MBA": 90.19607843137256,
+      "deobf mba expression": "-c*(2*a&c)+(~a&c)",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "42": {
+      "% size change from MBA": 94.87179487179486,
+      "deobf mba expression": "-(c|-d+e)+(d^-c&~(c*d))",
+      "traits": {
+         "size": 17,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "43": {
+      "% size change from MBA": 94.73684210526315,
+      "deobf mba expression": "-(~a&-a)",
+      "traits": {
+         "size": 6,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "44": {
+      "% size change from MBA": 98.9873417721519,
+      "deobf mba expression": "-~d*c*c*c",
+      "traits": {
+         "size": 9,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "45": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "c",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "46": {
+      "% size change from MBA": 97.60479041916167,
+      "deobf mba expression": "-a-(a&b^(b|e))",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "47": {
+      "% size change from MBA": 97.22222222222221,
+      "deobf mba expression": "-d*~(-e)",
+      "traits": {
+         "size": 6,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "48": {
+      "% size change from MBA": 92.5,
+      "deobf mba expression": "d*(b+d)&-(b|d)-(b|c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "49": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "-a*e|d&-a+d",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "50": {
+      "% size change from MBA": 94.3820224719101,
+      "deobf mba expression": "e*(-2*(c|d)+(d|c+e))+(2*(c|d)-(d|c+e))*(d^c&e)",
+      "traits": {
+         "size": 31,
+         "% alternated": 46.666666666666664,
+         "% unique": 60.0,
+         "% cse": 40.0,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "51": {
+      "% size change from MBA": 86.8421052631579,
+      "deobf mba expression": "-2*b+~c+d+(c&d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "52": {
+      "% size change from MBA": 91.42857142857143,
+      "deobf mba expression": "~(-a-d*~(-(a|c)))",
+      "traits": {
+         "size": 11,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "53": {
+      "% size change from MBA": 82.53968253968253,
+      "deobf mba expression": "-3*c+2*(c&b+c)+2*(~(b-c)&(c^b+c))",
+      "traits": {
+         "size": 24,
+         "% alternated": 41.66666666666667,
+         "% unique": 81.81818181818183,
+         "% cse": 18.181818181818183,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 120.0
+      }
+   },
+   "54": {
+      "% size change from MBA": 86.66666666666667,
+      "deobf mba expression": "b*(~(~b&(a^c))+2*(a|b|c))+a*~b-~b*(a&b)+(c&~(b*(b+(b|c))))+(a|b|~(c|b*(b+(b|c))))",
+      "traits": {
+         "size": 55,
+         "% alternated": 36.666666666666664,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": 242.85714285714283
+      }
+   },
+   "55": {
+      "% size change from MBA": 95.9731543624161,
+      "deobf mba expression": "e^-d+(~a&e)^-a+(d^e)",
+      "traits": {
+         "size": 16,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "56": {
+      "% size change from MBA": 96.47058823529412,
+      "deobf mba expression": "-2*b|-~((a^e)+(e^(a|b)))",
+      "traits": {
+         "size": 7,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -62.5
+      }
+   },
+   "57": {
+      "% size change from MBA": 96.80365296803653,
+      "deobf mba expression": "e^a*(e&(a^c))^a-c+e",
+      "traits": {
+         "size": 15,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -12.5
+      }
+   },
+   "58": {
+      "% size change from MBA": 99.75,
+      "deobf mba expression": "-~(-2*(~b&d)+b*(-2+(b&d)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "59": {
+      "% size change from MBA": 84.61538461538461,
+      "deobf mba expression": "2*a+~(2*c&~e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "60": {
+      "% size change from MBA": 98.32402234636871,
+      "deobf mba expression": "b^d^2*d",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "61": {
+      "% size change from MBA": 95.58823529411765,
+      "deobf mba expression": "c*c+~a*a",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "62": {
+      "% size change from MBA": 94.04761904761905,
+      "deobf mba expression": "c|e*(a&e)|a+e",
+      "traits": {
+         "size": 11,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "63": {
+      "% size change from MBA": 97.77777777777777,
+      "deobf mba expression": "~(c^a-e-~a*c)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "64": {
+      "% size change from MBA": 85.0,
+      "deobf mba expression": "b&d-(b&~d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "65": {
+      "% size change from MBA": 94.44444444444444,
+      "deobf mba expression": "-~(-2*c+e*e+(c&~e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "66": {
+      "% size change from MBA": 93.89312977099237,
+      "deobf mba expression": "~(-2*(c&~(b*c))-b*(2+c)-(a&~b))",
+      "traits": {
+         "size": 20,
+         "% alternated": 36.36363636363637,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "67": {
+      "% size change from MBA": 98.07073954983923,
+      "deobf mba expression": "~(c^b*(c+(b|c)))&(b|c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 28.57142857142857,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "68": {
+      "% size change from MBA": 96.84210526315789,
+      "deobf mba expression": "~a+e*~(-d*e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "69": {
+      "% size change from MBA": 87.5,
+      "deobf mba expression": "~(-(d&-~a))",
+      "traits": {
+         "size": 7,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "70": {
+      "% size change from MBA": 94.44444444444444,
+      "deobf mba expression": "b+c",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "71": {
+      "% size change from MBA": 96.15384615384616,
+      "deobf mba expression": "-b+(b^-b)",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -71.42857142857143
+      }
+   },
+   "72": {
+      "% size change from MBA": 98.32635983263597,
+      "deobf mba expression": "b*~b*d*(b&d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "73": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "a-c",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "74": {
+      "% size change from MBA": 88.88888888888889,
+      "deobf mba expression": "-~(2*c)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "75": {
+      "% size change from MBA": 98.52941176470588,
+      "deobf mba expression": "c&d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "76": {
+      "% size change from MBA": 99.5475113122172,
+      "deobf mba expression": "d^e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "77": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "~d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "78": {
+      "% size change from MBA": 87.03703703703704,
+      "deobf mba expression": "-(a|c)+(2*c&(c*c|a+c))",
+      "traits": {
+         "size": 16,
+         "% alternated": 62.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -12.5
+      }
+   },
+   "79": {
+      "% size change from MBA": 88.23529411764706,
+      "deobf mba expression": "-2*(~a&e)-(d+(a&e)&-e-(a&e^(d|e)))+(d&e)",
+      "traits": {
+         "size": 27,
+         "% alternated": 50.0,
+         "% unique": 83.33333333333334,
+         "% cse": 16.666666666666664,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "80": {
+      "% size change from MBA": 96.29629629629629,
+      "deobf mba expression": "b&c",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "81": {
+      "% size change from MBA": 96.07843137254902,
+      "deobf mba expression": "2*b*e",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "82": {
+      "% size change from MBA": 95.74468085106383,
+      "deobf mba expression": "-2*c-d",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -71.42857142857143
+      }
+   },
+   "83": {
+      "% size change from MBA": 92.85714285714286,
+      "deobf mba expression": "~(-c-b*b)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "84": {
+      "% size change from MBA": 97.94520547945206,
+      "deobf mba expression": "-3*c+(c&d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "85": {
+      "% size change from MBA": 76.92307692307693,
+      "deobf mba expression": "-(-e&b+(b&e))",
+      "traits": {
+         "size": 9,
+         "% alternated": 80.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "86": {
+      "% size change from MBA": 92.0,
+      "deobf mba expression": "a*(a&e)",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "87": {
+      "% size change from MBA": 98.68421052631578,
+      "deobf mba expression": "-e*-e",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "88": {
+      "% size change from MBA": 85.5813953488372,
+      "deobf mba expression": "(~(-(b&c))&(-(e&b-c)|-~b*c))*(~(-(b&c))|-(e&b-c)|-~b*c)+(-(b&c)&(-(e&b-c)|-~b*c))*(~(-(e&b-c)|-~b*c)&~(-(b&c)))",
+      "traits": {
+         "size": 75,
+         "% alternated": 65.11627906976744,
+         "% unique": 25.806451612903224,
+         "% cse": 74.19354838709677,
+         "num equivalent subtrees to GT": 12,
+         "% size mba increase from GT ": 342.85714285714283
+      }
+   },
+   "89": {
+      "% size change from MBA": 85.45454545454545,
+      "deobf mba expression": "-(a|c)+(a|c|~(a+(a^c)))^(~a|b)",
+      "traits": {
+         "size": 20,
+         "% alternated": 45.45454545454545,
+         "% unique": 75.0,
+         "% cse": 25.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 14.285714285714285
+      }
+   },
+   "90": {
+      "% size change from MBA": 84.375,
+      "deobf mba expression": "(a|~(b^-b))&(-a|~(a&b&-b))&(~a|-a|b|-b)",
+      "traits": {
+         "size": 29,
+         "% alternated": 27.77777777777778,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 66.66666666666666
+      }
+   },
+   "91": {
+      "% size change from MBA": 94.11764705882352,
+      "deobf mba expression": "~(-(e^a*e))",
+      "traits": {
+         "size": 7,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "92": {
+      "% size change from MBA": 82.6086956521739,
+      "deobf mba expression": "a*(a&b)|-a-b",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "93": {
+      "% size change from MBA": 79.59183673469387,
+      "deobf mba expression": "~(2*(a&~(-a)&(c^d))-(c^a&d^(-a|~a&c)))",
+      "traits": {
+         "size": 26,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 66.66666666666666
+      }
+   },
+   "94": {
+      "% size change from MBA": 92.85714285714286,
+      "deobf mba expression": "e*(-c+e)",
+      "traits": {
+         "size": 6,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "95": {
+      "% size change from MBA": 91.07142857142857,
+      "deobf mba expression": "-(c&b+c*c&(b|d))",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "96": {
+      "% size change from MBA": 96.11650485436894,
+      "deobf mba expression": "-(a&3*b)|~a&b",
+      "traits": {
+         "size": 11,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -55.55555555555556
+      }
+   },
+   "97": {
+      "% size change from MBA": 60.0,
+      "deobf mba expression": "-b+c+d+(b&c)",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "98": {
+      "% size change from MBA": 97.95918367346938,
+      "deobf mba expression": "a-e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "99": {
+      "% size change from MBA": 96.40287769784173,
+      "deobf mba expression": "a*a*(-b|-a-2*e)",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "100": {
+      "% size change from MBA": 93.22033898305084,
+      "deobf mba expression": "a+c+(b&-b&c)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "101": {
+      "% size change from MBA": 98.75,
+      "deobf mba expression": "~c-(d&~(2*a))",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "102": {
+      "% size change from MBA": 97.17514124293785,
+      "deobf mba expression": "b&b*(-a^(a|b*b))",
+      "traits": {
+         "size": 12,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "103": {
+      "% size change from MBA": 94.44444444444444,
+      "deobf mba expression": "b&~(-(b&~d))",
+      "traits": {
+         "size": 8,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "104": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-b",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "105": {
+      "% size change from MBA": 94.44444444444444,
+      "deobf mba expression": "b*~(-d)",
+      "traits": {
+         "size": 5,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "106": {
+      "% size change from MBA": 97.4921630094044,
+      "deobf mba expression": "d+e^2*e-(e&c+d)-c*d",
+      "traits": {
+         "size": 17,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "107": {
+      "% size change from MBA": 93.65079365079364,
+      "deobf mba expression": "-(e&d*e*(d-e))-(d*e|-d+e)",
+      "traits": {
+         "size": 19,
+         "% alternated": 50.0,
+         "% unique": 75.0,
+         "% cse": 25.0,
+         "num equivalent subtrees to GT": 9,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "108": {
+      "% size change from MBA": 96.49122807017544,
+      "deobf mba expression": "d*d+b*~(-2*d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "109": {
+      "% size change from MBA": 93.65079365079364,
+      "deobf mba expression": "-d^-(2*c&c*d)",
+      "traits": {
+         "size": 11,
+         "% alternated": 83.33333333333334,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "110": {
+      "% size change from MBA": 97.82608695652173,
+      "deobf mba expression": "d+(d|e)",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "111": {
+      "% size change from MBA": 89.47368421052632,
+      "deobf mba expression": "-a&a-d",
+      "traits": {
+         "size": 6,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "112": {
+      "% size change from MBA": 89.95433789954338,
+      "deobf mba expression": "e*(d-3*e+2*(d&2*e)+(d+e&(d^2*e)))+d*(2*(d&~(2*e))-(d+e&(d^2*e)))",
+      "traits": {
+         "size": 46,
+         "% alternated": 43.47826086956522,
+         "% unique": 54.54545454545454,
+         "% cse": 45.45454545454545,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 266.66666666666663
+      }
+   },
+   "113": {
+      "% size change from MBA": 97.72727272727273,
+      "deobf mba expression": "-~(e+(~a&d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "114": {
+      "% size change from MBA": 81.25,
+      "deobf mba expression": "-(~(2*b)&-(b&e))",
+      "traits": {
+         "size": 10,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "115": {
+      "% size change from MBA": 94.11764705882352,
+      "deobf mba expression": "-(~b&e)&-(-b^e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 71.42857142857143,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "116": {
+      "% size change from MBA": 75.82417582417582,
+      "deobf mba expression": "((-b^e)&(b|e|b+e))*(b|-b|e|b+e)+(~(-b^e)&(b|e|b+e))*(~(b|e|b+e)&(-b^e))",
+      "traits": {
+         "size": 51,
+         "% alternated": 42.857142857142854,
+         "% unique": 40.909090909090914,
+         "% cse": 59.09090909090909,
+         "num equivalent subtrees to GT": 13,
+         "% size mba increase from GT ": 340.0
+      }
+   },
+   "117": {
+      "% size change from MBA": 96.42857142857143,
+      "deobf mba expression": "-2+b",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "118": {
+      "% size change from MBA": 80.0,
+      "deobf mba expression": "-(2*c&(b|c))",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "119": {
+      "% size change from MBA": 96.22641509433963,
+      "deobf mba expression": "(a^e*e)+(c*e|a+c)",
+      "traits": {
+         "size": 13,
+         "% alternated": 83.33333333333334,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "120": {
+      "% size change from MBA": 99.32735426008968,
+      "deobf mba expression": "-a*e+(~a&-a)",
+      "traits": {
+         "size": 10,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "121": {
+      "% size change from MBA": 86.20689655172413,
+      "deobf mba expression": "-a-c&(c|d|-d)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "122": {
+      "% size change from MBA": 91.42857142857143,
+      "deobf mba expression": "b*b&(b|c)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "123": {
+      "% size change from MBA": 94.33962264150944,
+      "deobf mba expression": "a*a^(a|~d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "124": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "e",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "125": {
+      "% size change from MBA": 93.57142857142857,
+      "deobf mba expression": "-(d^a&~(d^e))-a*d&(d|2*a^e)",
+      "traits": {
+         "size": 21,
+         "% alternated": 27.27272727272727,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "126": {
+      "% size change from MBA": 84.21052631578947,
+      "deobf mba expression": "c+~(d*d&~(-(c&(d|-d))&c-e))-(-d|c&~d)+d*~(-d)",
+      "traits": {
+         "size": 33,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 71.42857142857143
+      }
+   },
+   "127": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "(-c^e)+(e^-e)",
+      "traits": {
+         "size": 9,
+         "% alternated": 80.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "128": {
+      "% size change from MBA": 94.36619718309859,
+      "deobf mba expression": "~b+~(b|e|~(b*e))",
+      "traits": {
+         "size": 12,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "129": {
+      "% size change from MBA": 97.36842105263158,
+      "deobf mba expression": "-~(b&~b*b)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "130": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "d&~(-c+d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "131": {
+      "% size change from MBA": 89.65517241379311,
+      "deobf mba expression": "-(~(a-e)&-(-c&e))",
+      "traits": {
+         "size": 11,
+         "% alternated": 71.42857142857143,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "132": {
+      "% size change from MBA": 91.22807017543859,
+      "deobf mba expression": "(~(2*c+2*d-3*(c&d))&(c^d))*(~(2*c+2*d-3*(c&d))|c^d)+~(2*c+2*d-3*(c&d)|c^d)*(2*c+2*d-3*(c&d)&(c^d))",
+      "traits": {
+         "size": 74,
+         "% alternated": 31.57894736842105,
+         "% unique": 20.0,
+         "% cse": 80.0,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 288.88888888888886
+      }
+   },
+   "133": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "-a^~(-e|a^e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "134": {
+      "% size change from MBA": 80.0,
+      "deobf mba expression": "~(-b&d)",
+      "traits": {
+         "size": 5,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "135": {
+      "% size change from MBA": 89.70588235294117,
+      "deobf mba expression": "-2*(c&e)-(e^c&(~e|c+e))",
+      "traits": {
+         "size": 16,
+         "% alternated": 37.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -12.5
+      }
+   },
+   "136": {
+      "% size change from MBA": 86.42857142857143,
+      "deobf mba expression": "2*(~e&c+e)-(c|e^c+e)+(~(-(e|c&~(c+e))+(~(c&e)&c+e))&(c-e|-c+e))",
+      "traits": {
+         "size": 45,
+         "% alternated": 48.0,
+         "% unique": 78.94736842105263,
+         "% cse": 21.052631578947366,
+         "num equivalent subtrees to GT": 10,
+         "% size mba increase from GT ": 111.11111111111111
+      }
+   },
+   "137": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "~c|c*(b+c)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "138": {
+      "% size change from MBA": 91.66666666666666,
+      "deobf mba expression": "d*e|e-(-(~a&d)&d+e)+(a&d)",
+      "traits": {
+         "size": 19,
+         "% alternated": 70.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "139": {
+      "% size change from MBA": 86.95652173913044,
+      "deobf mba expression": "a*b|a&b",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "140": {
+      "% size change from MBA": 87.32394366197182,
+      "deobf mba expression": "-(c&-~(a^b+c)&(a^b))+(-~(a^b+c)|c&(a^b))",
+      "traits": {
+         "size": 20,
+         "% alternated": 40.0,
+         "% unique": 55.55555555555556,
+         "% cse": 44.44444444444444,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 80.0
+      }
+   },
+   "141": {
+      "% size change from MBA": 99.36708860759494,
+      "deobf mba expression": "-~(-a*~(-a)-c*(a^c))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "142": {
+      "% size change from MBA": 96.03960396039604,
+      "deobf mba expression": "~b-(d*d^b*d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 80.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "143": {
+      "% size change from MBA": 88.88888888888889,
+      "deobf mba expression": "~b|e|-b+c",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "144": {
+      "% size change from MBA": 94.94949494949495,
+      "deobf mba expression": "(2*a+c)*(e&-a+e)",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "145": {
+      "% size change from MBA": 94.23076923076923,
+      "deobf mba expression": "-(2*a^-~(-a))",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "146": {
+      "% size change from MBA": 95.77464788732394,
+      "deobf mba expression": "~(2*e-a*~a)",
+      "traits": {
+         "size": 9,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "147": {
+      "% size change from MBA": 80.0,
+      "deobf mba expression": "~b&-b+d",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "148": {
+      "% size change from MBA": 83.33333333333334,
+      "deobf mba expression": "2*a-(a&c*c)-(a-c*c&(a|c*c))",
+      "traits": {
+         "size": 21,
+         "% alternated": 50.0,
+         "% unique": 70.0,
+         "% cse": 30.0,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "149": {
+      "% size change from MBA": 95.41984732824427,
+      "deobf mba expression": "-(e&-a-e)+(a&-a&a*d)",
+      "traits": {
+         "size": 16,
+         "% alternated": 55.55555555555556,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "150": {
+      "% size change from MBA": 94.05940594059405,
+      "deobf mba expression": "-b*e^b+e^(b|b*b)",
+      "traits": {
+         "size": 14,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "151": {
+      "% size change from MBA": 97.97979797979798,
+      "deobf mba expression": "-e+c*~(-e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -71.42857142857143
+      }
+   },
+   "152": {
+      "% size change from MBA": 95.20295202952029,
+      "deobf mba expression": "b+e^2+2*(e|e*e|~(-e))+e*(-2-e)+(e&e*e)",
+      "traits": {
+         "size": 29,
+         "% alternated": 46.666666666666664,
+         "% unique": 84.61538461538461,
+         "% cse": 15.384615384615385,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 62.5
+      }
+   },
+   "153": {
+      "% size change from MBA": 96.15384615384616,
+      "deobf mba expression": "2+a+e",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "154": {
+      "% size change from MBA": 98.44961240310077,
+      "deobf mba expression": "c*(a|c^a*c)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "155": {
+      "% size change from MBA": 91.11111111111111,
+      "deobf mba expression": "~(a*c*(c-(a^e)))&-(c&e)+a*e",
+      "traits": {
+         "size": 19,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "156": {
+      "% size change from MBA": 98.18181818181819,
+      "deobf mba expression": "~(b^e)",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "157": {
+      "% size change from MBA": 98.24561403508771,
+      "deobf mba expression": "-d*(-c^d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -77.77777777777779
+      }
+   },
+   "158": {
+      "% size change from MBA": 89.13043478260869,
+      "deobf mba expression": "-(c|2*c)&-c-d*d",
+      "traits": {
+         "size": 13,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "159": {
+      "% size change from MBA": 92.98245614035088,
+      "deobf mba expression": "d&~e&(-e|d*e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "160": {
+      "% size change from MBA": 94.33962264150944,
+      "deobf mba expression": "-b^a+(b^c)",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "161": {
+      "% size change from MBA": 91.17647058823529,
+      "deobf mba expression": "~b|e|-a+b",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "162": {
+      "% size change from MBA": 97.97297297297297,
+      "deobf mba expression": "-a*-a*d*d",
+      "traits": {
+         "size": 9,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "163": {
+      "% size change from MBA": 57.14285714285714,
+      "deobf mba expression": "-2*e+~(d|e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "164": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "165": {
+      "% size change from MBA": 95.58823529411765,
+      "deobf mba expression": "~(-2*a*a&a+(2*a&b))",
+      "traits": {
+         "size": 14,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "166": {
+      "% size change from MBA": 93.57142857142857,
+      "deobf mba expression": "-(a|-a|b|-b*b)+((a|b)&(-a|-b*b))",
+      "traits": {
+         "size": 24,
+         "% alternated": 42.857142857142854,
+         "% unique": 77.77777777777779,
+         "% cse": 22.22222222222222,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "167": {
+      "% size change from MBA": 94.83870967741936,
+      "deobf mba expression": "-2*a+2*(~b&a+(a|b))+(a&b)",
+      "traits": {
+         "size": 18,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -11.11111111111111
+      }
+   },
+   "168": {
+      "% size change from MBA": 94.5945945945946,
+      "deobf mba expression": "~(a*b*c)",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "169": {
+      "% size change from MBA": 94.52054794520548,
+      "deobf mba expression": "d+(d^-~c*d)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "170": {
+      "% size change from MBA": 97.43589743589743,
+      "deobf mba expression": "~c-3*e+2*(a&e)",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "171": {
+      "% size change from MBA": 98.00995024875621,
+      "deobf mba expression": "-2-2*e-(c&~e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "172": {
+      "% size change from MBA": 91.66666666666666,
+      "deobf mba expression": "b-(~a&2*a)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "173": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "174": {
+      "% size change from MBA": 89.24731182795699,
+      "deobf mba expression": "-b+e+(~(-b+e)&b-2*(e&-e|b&(e|-e)))",
+      "traits": {
+         "size": 26,
+         "% alternated": 40.0,
+         "% unique": 80.0,
+         "% cse": 20.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 66.66666666666666
+      }
+   },
+   "175": {
+      "% size change from MBA": 88.63636363636364,
+      "deobf mba expression": "-(a&c*e)&c+(a|e)",
+      "traits": {
+         "size": 12,
+         "% alternated": 83.33333333333334,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "176": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "177": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "-b*(b&c)^-e+(b&c)",
+      "traits": {
+         "size": 13,
+         "% alternated": 57.14285714285714,
+         "% unique": 60.0,
+         "% cse": 40.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "178": {
+      "% size change from MBA": 98.85057471264368,
+      "deobf mba expression": "-~(c+(c&e&2*e+c*c))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "179": {
+      "% size change from MBA": 93.33333333333333,
+      "deobf mba expression": "~(c^e)",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "180": {
+      "% size change from MBA": 70.58823529411765,
+      "deobf mba expression": "c-d-e+2*(c&e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 25.0
+      }
+   },
+   "181": {
+      "% size change from MBA": 97.2972972972973,
+      "deobf mba expression": "-c*e*(c|-e)+(a&~e)",
+      "traits": {
+         "size": 14,
+         "% alternated": 37.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "182": {
+      "% size change from MBA": 88.46153846153845,
+      "deobf mba expression": "e+2*(b|e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "183": {
+      "% size change from MBA": 88.88888888888889,
+      "deobf mba expression": "b|~(a+b)",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "184": {
+      "% size change from MBA": 86.36363636363636,
+      "deobf mba expression": "e+a*d+(~(e+a*d)&a-e&(a^d))",
+      "traits": {
+         "size": 20,
+         "% alternated": 30.0,
+         "% unique": 55.55555555555556,
+         "% cse": 44.44444444444444,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "185": {
+      "% size change from MBA": 86.66666666666667,
+      "deobf mba expression": "~c-(c&~e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "186": {
+      "% size change from MBA": 93.75,
+      "deobf mba expression": "-(-(c&e*e)^c&e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "187": {
+      "% size change from MBA": 98.63760217983652,
+      "deobf mba expression": "e*(-d-(-b^-~b*d))",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "188": {
+      "% size change from MBA": 99.78021978021978,
+      "deobf mba expression": "e*e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -90.0
+      }
+   },
+   "189": {
+      "% size change from MBA": 95.1219512195122,
+      "deobf mba expression": "~(a&-a+b)+a*~d+(a^b)",
+      "traits": {
+         "size": 16,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "190": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "-(b&~c*~c&(c|b-e))+(~c*~c|b&(c|b-e))",
+      "traits": {
+         "size": 28,
+         "% alternated": 62.5,
+         "% unique": 45.45454545454545,
+         "% cse": 54.54545454545454,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 57.14285714285714
+      }
+   },
+   "191": {
+      "% size change from MBA": 94.11764705882352,
+      "deobf mba expression": "-b*-b",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "192": {
+      "% size change from MBA": 86.66666666666667,
+      "deobf mba expression": "~(-(a&a*e))",
+      "traits": {
+         "size": 7,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "193": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "194": {
+      "% size change from MBA": 98.40425531914893,
+      "deobf mba expression": "-~(-2*(a&e))*(a&e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "195": {
+      "% size change from MBA": 97.77777777777777,
+      "deobf mba expression": "~(-b*(c-2*(c&e)))",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "196": {
+      "% size change from MBA": 88.88888888888889,
+      "deobf mba expression": "~(a^-a+d)&b*(a&d)&(a^d)",
+      "traits": {
+         "size": 17,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "197": {
+      "% size change from MBA": 96.15384615384616,
+      "deobf mba expression": "-(2*c&(~a|c))+c*(3-a)",
+      "traits": {
+         "size": 15,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "198": {
+      "% size change from MBA": 94.02985074626866,
+      "deobf mba expression": "b*(a+d*(a+~d))",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "199": {
+      "% size change from MBA": 87.87878787878788,
+      "deobf mba expression": "-~(a|e)&(a|2*b)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "200": {
+      "% size change from MBA": 96.8,
+      "deobf mba expression": "-3*d-(d^-(a|d))",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "201": {
+      "% size change from MBA": 91.17647058823529,
+      "deobf mba expression": "a*d|-(a^d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "202": {
+      "% size change from MBA": 91.58878504672897,
+      "deobf mba expression": "~c&e&~(a-c)&e*(-a+c-e)+a*c",
+      "traits": {
+         "size": 22,
+         "% alternated": 16.666666666666664,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "203": {
+      "% size change from MBA": 98.51301115241635,
+      "deobf mba expression": "-d*~(a+d)+(a&d)",
+      "traits": {
+         "size": 11,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "204": {
+      "% size change from MBA": 92.5925925925926,
+      "deobf mba expression": "~c*(b&e)|b-c",
+      "traits": {
+         "size": 10,
+         "% alternated": 80.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "205": {
+      "% size change from MBA": 97.91666666666666,
+      "deobf mba expression": "-~(-~c*e+(a|e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "206": {
+      "% size change from MBA": 91.42857142857143,
+      "deobf mba expression": "-a&-a+2*b&(b^2*b)",
+      "traits": {
+         "size": 15,
+         "% alternated": 37.5,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "207": {
+      "% size change from MBA": 88.73239436619718,
+      "deobf mba expression": "~(a&~b)+2*(a&(~b|~a*b))-~a*b",
+      "traits": {
+         "size": 22,
+         "% alternated": 38.46153846153847,
+         "% unique": 75.0,
+         "% cse": 25.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "208": {
+      "% size change from MBA": 95.50561797752809,
+      "deobf mba expression": "-(b&b+e)+(b^e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "209": {
+      "% size change from MBA": 93.61702127659575,
+      "deobf mba expression": "b+a*(-2+a)",
+      "traits": {
+         "size": 7,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "210": {
+      "% size change from MBA": 80.76923076923077,
+      "deobf mba expression": "~(~c*~c&(d^c-d))+2*(d|c-d)+c*~c",
+      "traits": {
+         "size": 25,
+         "% alternated": 57.14285714285714,
+         "% unique": 80.0,
+         "% cse": 20.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 150.0
+      }
+   },
+   "211": {
+      "% size change from MBA": 93.51851851851852,
+      "deobf mba expression": "c&d*(c-d)&(2*d^-c+d)",
+      "traits": {
+         "size": 16,
+         "% alternated": 37.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "212": {
+      "% size change from MBA": 96.82539682539682,
+      "deobf mba expression": "-~(b&c)&-b*c*c*~(-b+c)",
+      "traits": {
+         "size": 16,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "213": {
+      "% size change from MBA": 97.2972972972973,
+      "deobf mba expression": "~(-(c&(a^e)))",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "214": {
+      "% size change from MBA": 91.48936170212765,
+      "deobf mba expression": "c-d|-b&-b*~(-c)",
+      "traits": {
+         "size": 13,
+         "% alternated": 62.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "215": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "216": {
+      "% size change from MBA": 99.54954954954955,
+      "deobf mba expression": "-~(d*~(-(c&b*d))+~c*(c&b*d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "217": {
+      "% size change from MBA": 98.78048780487805,
+      "deobf mba expression": "b*~b*c+(b|d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "218": {
+      "% size change from MBA": 96.51162790697676,
+      "deobf mba expression": "-a*~(~(2*c)&c-d)*(a|c)",
+      "traits": {
+         "size": 16,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "219": {
+      "% size change from MBA": 99.21259842519686,
+      "deobf mba expression": "-~(a&b|~b&-e+(a^b^e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "220": {
+      "% size change from MBA": 98.11320754716981,
+      "deobf mba expression": "a&d&-~(a+d+(a-d^(a|d)))",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "221": {
+      "% size change from MBA": 96.15384615384616,
+      "deobf mba expression": "~(b^e)+(b^2*b)+(e^-e)",
+      "traits": {
+         "size": 15,
+         "% alternated": 62.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "222": {
+      "% size change from MBA": 97.91666666666666,
+      "deobf mba expression": "a+e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "223": {
+      "% size change from MBA": 90.45226130653266,
+      "deobf mba expression": "~(b*(b-c)&(b|c))*(~(b|c)&b*(b-c))+~(b|c|b*(b-c))*(~(b*(b-c))&(b|c))",
+      "traits": {
+         "size": 43,
+         "% alternated": 34.78260869565217,
+         "% unique": 36.84210526315789,
+         "% cse": 63.1578947368421,
+         "num equivalent subtrees to GT": 16,
+         "% size mba increase from GT ": 216.66666666666666
+      }
+   },
+   "224": {
+      "% size change from MBA": 79.24528301886792,
+      "deobf mba expression": "(-b&~(b^2*b)&(b|d))+(~(b^2*b)|-b&(b|d))",
+      "traits": {
+         "size": 27,
+         "% alternated": 40.0,
+         "% unique": 45.45454545454545,
+         "% cse": 54.54545454545454,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 120.0
+      }
+   },
+   "225": {
+      "% size change from MBA": 96.0,
+      "deobf mba expression": "~(a&(-a^e))",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "226": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-a",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "227": {
+      "% size change from MBA": 98.30508474576271,
+      "deobf mba expression": "d*~d",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "228": {
+      "% size change from MBA": 95.83333333333334,
+      "deobf mba expression": "-d-(a&d)",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "229": {
+      "% size change from MBA": 99.31972789115646,
+      "deobf mba expression": "-~(d^c&c*d)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "230": {
+      "% size change from MBA": 98.84393063583815,
+      "deobf mba expression": "~a+a*a*a*~(-a)",
+      "traits": {
+         "size": 12,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "231": {
+      "% size change from MBA": 83.33333333333334,
+      "deobf mba expression": "d&e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "232": {
+      "% size change from MBA": 96.875,
+      "deobf mba expression": "-(~a&c&d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "233": {
+      "% size change from MBA": 95.65217391304348,
+      "deobf mba expression": "-a+e",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "234": {
+      "% size change from MBA": 98.91304347826086,
+      "deobf mba expression": "d&~e",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "235": {
+      "% size change from MBA": 95.88235294117648,
+      "deobf mba expression": "c*d*(d&~(-c))|d*d^c*d",
+      "traits": {
+         "size": 17,
+         "% alternated": 55.55555555555556,
+         "% unique": 71.42857142857143,
+         "% cse": 28.57142857142857,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "236": {
+      "% size change from MBA": 97.2972972972973,
+      "deobf mba expression": "(c^c*d)+(c|-c+d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "237": {
+      "% size change from MBA": 95.0,
+      "deobf mba expression": "b*b*b",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "238": {
+      "% size change from MBA": 98.33333333333333,
+      "deobf mba expression": "b+c*c",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "239": {
+      "% size change from MBA": 97.16312056737588,
+      "deobf mba expression": "2*a*a^a&d",
+      "traits": {
+         "size": 9,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -55.55555555555556
+      }
+   },
+   "240": {
+      "% size change from MBA": 95.55555555555556,
+      "deobf mba expression": "~a-(a^-a)",
+      "traits": {
+         "size": 7,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "241": {
+      "% size change from MBA": 95.14563106796116,
+      "deobf mba expression": "e*~(a&e)*(-2+(a|e))",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "242": {
+      "% size change from MBA": 89.47368421052632,
+      "deobf mba expression": "a|-b|-2*a*a",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "243": {
+      "% size change from MBA": 93.33333333333333,
+      "deobf mba expression": "~b|-b*c+(b&c)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "244": {
+      "% size change from MBA": 93.91304347826087,
+      "deobf mba expression": "d-(-b^d)+(-2*d^a+(b&d))",
+      "traits": {
+         "size": 16,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -12.5
+      }
+   },
+   "245": {
+      "% size change from MBA": 91.8918918918919,
+      "deobf mba expression": "2*c-2*e-(-e^(c|e))",
+      "traits": {
+         "size": 14,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "246": {
+      "% size change from MBA": 88.0,
+      "deobf mba expression": "-(-c&a*(a&c))",
+      "traits": {
+         "size": 9,
+         "% alternated": 80.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "247": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "a*e^d-e",
+      "traits": {
+         "size": 7,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "248": {
+      "% size change from MBA": 97.5,
+      "deobf mba expression": "c&~d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "249": {
+      "% size change from MBA": 82.35294117647058,
+      "deobf mba expression": "~a&(b|-(a|d))",
+      "traits": {
+         "size": 9,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "250": {
+      "% size change from MBA": 97.94238683127571,
+      "deobf mba expression": "a^b^~a*b^a+b",
+      "traits": {
+         "size": 12,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -37.5
+      }
+   },
+   "251": {
+      "% size change from MBA": 94.64285714285714,
+      "deobf mba expression": "~(2*b+2*c)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "252": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "253": {
+      "% size change from MBA": 90.0,
+      "deobf mba expression": "-b+(a&~b&e&~(-b))",
+      "traits": {
+         "size": 13,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "254": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "-(b^a&(b|e))",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "255": {
+      "% size change from MBA": 96.34146341463415,
+      "deobf mba expression": "-(a^2*a+b)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "256": {
+      "% size change from MBA": 90.56603773584906,
+      "deobf mba expression": "-~b*(b|c)-c*e",
+      "traits": {
+         "size": 11,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "257": {
+      "% size change from MBA": 93.61702127659575,
+      "deobf mba expression": "d^-d^b*~b",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "258": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "259": {
+      "% size change from MBA": 95.23809523809523,
+      "deobf mba expression": "-(b&d&~e)+(b^d-e)",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -44.44444444444444
+      }
+   },
+   "260": {
+      "% size change from MBA": 84.44444444444444,
+      "deobf mba expression": "(~(b|c|e)&c*e)+(b|c|e)",
+      "traits": {
+         "size": 16,
+         "% alternated": 37.5,
+         "% unique": 42.857142857142854,
+         "% cse": 57.14285714285714,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 75.0
+      }
+   },
+   "261": {
+      "% size change from MBA": 92.6829268292683,
+      "deobf mba expression": "a|2*a*e|-d+(-a|e)",
+      "traits": {
+         "size": 15,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "262": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "263": {
+      "% size change from MBA": 96.26168224299066,
+      "deobf mba expression": "b^-~b&b*c",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "264": {
+      "% size change from MBA": 97.80564263322884,
+      "deobf mba expression": "~(e^c*(2*a+c)^a-c*-c)",
+      "traits": {
+         "size": 17,
+         "% alternated": 22.22222222222222,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "265": {
+      "% size change from MBA": 95.9349593495935,
+      "deobf mba expression": "~(a-2*(a&d)&-a+d)",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "266": {
+      "% size change from MBA": 83.78378378378379,
+      "deobf mba expression": "2+(a&-a+2*c)+(a|c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "267": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "268": {
+      "% size change from MBA": 95.52238805970148,
+      "deobf mba expression": "~(b*e*(a^b))+a*(-a-b-e)*(a^b)",
+      "traits": {
+         "size": 21,
+         "% alternated": 36.36363636363637,
+         "% unique": 77.77777777777779,
+         "% cse": 22.22222222222222,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "269": {
+      "% size change from MBA": 94.8051948051948,
+      "deobf mba expression": "b*d^b+d*d",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "270": {
+      "% size change from MBA": 98.38709677419355,
+      "deobf mba expression": "-(a^c)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "271": {
+      "% size change from MBA": 82.25806451612904,
+      "deobf mba expression": "-(c|-(-b*c^b+c))-2*(~(b+c)&-b*c)+b*~c",
+      "traits": {
+         "size": 29,
+         "% alternated": 52.94117647058824,
+         "% unique": 63.63636363636363,
+         "% cse": 36.36363636363637,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 175.0
+      }
+   },
+   "272": {
+      "% size change from MBA": 94.87179487179486,
+      "deobf mba expression": "(c&d)+(b|c*d|-b+c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "273": {
+      "% size change from MBA": 94.38775510204081,
+      "deobf mba expression": "e*c*c+(e&~(e*c*c)&-a*~a&(c|a*c))",
+      "traits": {
+         "size": 26,
+         "% alternated": 35.714285714285715,
+         "% unique": 63.63636363636363,
+         "% cse": 36.36363636363637,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 22.22222222222222
+      }
+   },
+   "274": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "~d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "275": {
+      "% size change from MBA": 93.02325581395348,
+      "deobf mba expression": "~(d*~d)+(d*~d&e*(d&e))",
+      "traits": {
+         "size": 16,
+         "% alternated": 88.88888888888889,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 20.0
+      }
+   },
+   "276": {
+      "% size change from MBA": 87.5,
+      "deobf mba expression": "-(a&-a+c)+(c&a+e)",
+      "traits": {
+         "size": 13,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "277": {
+      "% size change from MBA": 97.22222222222221,
+      "deobf mba expression": "~(~(b^b*e)^c*b*b&(c|e))",
+      "traits": {
+         "size": 17,
+         "% alternated": 22.22222222222222,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -22.22222222222222
+      }
+   },
+   "278": {
+      "% size change from MBA": 97.02380952380952,
+      "deobf mba expression": "a|c|c*(a^a*c)",
+      "traits": {
+         "size": 11,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "279": {
+      "% size change from MBA": 97.71428571428571,
+      "deobf mba expression": "2*a*a^a&~b",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "280": {
+      "% size change from MBA": 96.29629629629629,
+      "deobf mba expression": "d*d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "281": {
+      "% size change from MBA": 97.81420765027322,
+      "deobf mba expression": "a*e^2*a*e",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "282": {
+      "% size change from MBA": 97.5,
+      "deobf mba expression": "c|e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "283": {
+      "% size change from MBA": 95.45454545454545,
+      "deobf mba expression": "-(-e|e*(e&-e))",
+      "traits": {
+         "size": 10,
+         "% alternated": 83.33333333333334,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "284": {
+      "% size change from MBA": 99.34895833333334,
+      "deobf mba expression": "~(~(a*d*d)*(a^2*d))",
+      "traits": {
+         "size": 13,
+         "% alternated": 71.42857142857143,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "285": {
+      "% size change from MBA": 88.95705521472392,
+      "deobf mba expression": "(-(a&~c)&-(a|a+c))*(-(a&~c)|-(a|a+c))+(~(-~(-(a&a+c)+(~a^a+c)))&-(a&~c))*(~(-(a&~c))&-(a|a+c))",
+      "traits": {
+         "size": 50,
+         "% alternated": 70.96774193548387,
+         "% unique": 44.44444444444444,
+         "% cse": 55.55555555555556,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 200.0
+      }
+   },
+   "286": {
+      "% size change from MBA": 89.47368421052632,
+      "deobf mba expression": "c^(~a|d)",
+      "traits": {
+         "size": 6,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "287": {
+      "% size change from MBA": 94.87179487179486,
+      "deobf mba expression": "d+(c^c&d^2*c&d)",
+      "traits": {
+         "size": 13,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "288": {
+      "% size change from MBA": 92.5925925925926,
+      "deobf mba expression": "a+2*c",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "289": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "290": {
+      "% size change from MBA": 80.8080808080808,
+      "deobf mba expression": "((-b^-e)&(b^-b^e))*(-b^-e|b^-b^e)+(~(-b^-e)&(b^-b^e))*(~(b^-b^e)&(-b^-e))",
+      "traits": {
+         "size": 53,
+         "% alternated": 48.484848484848484,
+         "% unique": 36.84210526315789,
+         "% cse": 63.1578947368421,
+         "num equivalent subtrees to GT": 8,
+         "% size mba increase from GT ": 375.0
+      }
+   },
+   "291": {
+      "% size change from MBA": 90.32258064516128,
+      "deobf mba expression": "~(a^b^a-b)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "292": {
+      "% size change from MBA": 98.71794871794873,
+      "deobf mba expression": "a&c",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "293": {
+      "% size change from MBA": 98.80478087649402,
+      "deobf mba expression": "b-(d|b*d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -62.5
+      }
+   },
+   "294": {
+      "% size change from MBA": 97.8021978021978,
+      "deobf mba expression": "-b*~b*e",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "295": {
+      "% size change from MBA": 93.97590361445783,
+      "deobf mba expression": "~(b+c*c)&b*(c^-c)",
+      "traits": {
+         "size": 13,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "296": {
+      "% size change from MBA": 83.9506172839506,
+      "deobf mba expression": "((a^2*a)&(a*d|a^d))+(a*d|a^d|a^2*a)",
+      "traits": {
+         "size": 27,
+         "% alternated": 46.15384615384615,
+         "% unique": 23.076923076923077,
+         "% cse": 76.92307692307693,
+         "num equivalent subtrees to GT": 10,
+         "% size mba increase from GT ": 116.66666666666667
+      }
+   },
+   "297": {
+      "% size change from MBA": 98.9247311827957,
+      "deobf mba expression": "2*b-d*(b^d)",
+      "traits": {
+         "size": 9,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -55.55555555555556
+      }
+   },
+   "298": {
+      "% size change from MBA": 98.78048780487805,
+      "deobf mba expression": "-~(-(b^2*b))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -87.5
+      }
+   },
+   "299": {
+      "% size change from MBA": 94.21841541755889,
+      "deobf mba expression": "(-a&a+b+~(2*b|a*b))*(-a|a+b+~(2*b|a*b))+(-a&-a-b+(2*b|a*b))*(~(-a)&a+b+~(2*b|a*b))",
+      "traits": {
+         "size": 64,
+         "% alternated": 66.66666666666666,
+         "% unique": 33.33333333333333,
+         "% cse": 66.66666666666666,
+         "num equivalent subtrees to GT": 18,
+         "% size mba increase from GT ": 350.0
+      }
+   },
+   "300": {
+      "% size change from MBA": 92.6829268292683,
+      "deobf mba expression": "a^d^-a+d",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "301": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "-(d|e|~(-2*d+2*e))",
+      "traits": {
+         "size": 13,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "302": {
+      "% size change from MBA": 95.52238805970148,
+      "deobf mba expression": "a^c&a-c",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "303": {
+      "% size change from MBA": 88.46153846153845,
+      "deobf mba expression": "~(a&d)|-a+d",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "304": {
+      "% size change from MBA": 98.66666666666667,
+      "deobf mba expression": "-~(-e*~c*~c)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "305": {
+      "% size change from MBA": 99.21875,
+      "deobf mba expression": "~(b*~e*~e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "306": {
+      "% size change from MBA": 99.4535519125683,
+      "deobf mba expression": "-~(b*(e&a*e)+(a^b^e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "307": {
+      "% size change from MBA": 97.70114942528735,
+      "deobf mba expression": "-e^~b*(b&b+e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 83.33333333333334,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "308": {
+      "% size change from MBA": 98.01980198019803,
+      "deobf mba expression": "-a^a*a",
+      "traits": {
+         "size": 6,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "309": {
+      "% size change from MBA": 94.28571428571428,
+      "deobf mba expression": "~(2*a-e)",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "310": {
+      "% size change from MBA": 91.11111111111111,
+      "deobf mba expression": "-e|-~c|d-e",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "311": {
+      "% size change from MBA": 98.59154929577466,
+      "deobf mba expression": "b+~e",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "312": {
+      "% size change from MBA": 89.74358974358975,
+      "deobf mba expression": "~(-c^c-2*(a&c))",
+      "traits": {
+         "size": 11,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "313": {
+      "% size change from MBA": 94.11764705882352,
+      "deobf mba expression": "a*a&~(d*d+(a&d))",
+      "traits": {
+         "size": 12,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "314": {
+      "% size change from MBA": 98.83040935672514,
+      "deobf mba expression": "b*(-b-e)",
+      "traits": {
+         "size": 6,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "315": {
+      "% size change from MBA": 95.96774193548387,
+      "deobf mba expression": "~c-b*~(-(b&c)-c*c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "316": {
+      "% size change from MBA": 94.33962264150944,
+      "deobf mba expression": "~(-a+c|a&~(-c))",
+      "traits": {
+         "size": 11,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "317": {
+      "% size change from MBA": 98.18181818181819,
+      "deobf mba expression": "~a-~a*a*a",
+      "traits": {
+         "size": 9,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -62.5
+      }
+   },
+   "318": {
+      "% size change from MBA": 95.23809523809523,
+      "deobf mba expression": "2*a^~a&(2*a^-a+c)",
+      "traits": {
+         "size": 15,
+         "% alternated": 37.5,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "319": {
+      "% size change from MBA": 93.61702127659575,
+      "deobf mba expression": "-e*~(-a)+(a&e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "320": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "~(-a)",
+      "traits": {
+         "size": 3,
+         "% alternated": 50.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "321": {
+      "% size change from MBA": 89.47368421052632,
+      "deobf mba expression": "~(d^a+d|d^3*a-(a|d)-(a-d&a+(a&d)))",
+      "traits": {
+         "size": 26,
+         "% alternated": 53.84615384615385,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "322": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "~b",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "323": {
+      "% size change from MBA": 95.1219512195122,
+      "deobf mba expression": "2*a*c",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "324": {
+      "% size change from MBA": 87.8048780487805,
+      "deobf mba expression": "2*a+2*b-(a&b)",
+      "traits": {
+         "size": 11,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "325": {
+      "% size change from MBA": 88.0,
+      "deobf mba expression": "d^-(d&-~e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "326": {
+      "% size change from MBA": 91.66666666666666,
+      "deobf mba expression": "a&a+b",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "327": {
+      "% size change from MBA": 97.5609756097561,
+      "deobf mba expression": "-~(-a+d*d)^(c|~d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "328": {
+      "% size change from MBA": 97.5,
+      "deobf mba expression": "c*c+~(a^d*(a+c))",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "329": {
+      "% size change from MBA": 86.41975308641975,
+      "deobf mba expression": "~(e|-~b|b^a-b)+(-~b&(e|b^a-b))",
+      "traits": {
+         "size": 24,
+         "% alternated": 50.0,
+         "% unique": 45.45454545454545,
+         "% cse": 54.54545454545454,
+         "num equivalent subtrees to GT": 9,
+         "% size mba increase from GT ": 57.14285714285714
+      }
+   },
+   "330": {
+      "% size change from MBA": 98.22485207100591,
+      "deobf mba expression": "-a*~(b*(b&c))",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "331": {
+      "% size change from MBA": 96.875,
+      "deobf mba expression": "(~a&e)+(d|e*(-a+(d|e)))",
+      "traits": {
+         "size": 15,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "332": {
+      "% size change from MBA": 93.18181818181817,
+      "deobf mba expression": "-d*(d&c*d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "333": {
+      "% size change from MBA": 96.35036496350365,
+      "deobf mba expression": "d+~(e^d*e)+(d^-e)",
+      "traits": {
+         "size": 13,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -37.5
+      }
+   },
+   "334": {
+      "% size change from MBA": 99.31972789115646,
+      "deobf mba expression": "c&~d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -88.88888888888889
+      }
+   },
+   "335": {
+      "% size change from MBA": 98.31932773109243,
+      "deobf mba expression": "d*d*d",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "336": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "e",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "337": {
+      "% size change from MBA": 95.74468085106383,
+      "deobf mba expression": "-e^a+e",
+      "traits": {
+         "size": 6,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "338": {
+      "% size change from MBA": 98.42931937172776,
+      "deobf mba expression": "~b*(-b|-(b&c))",
+      "traits": {
+         "size": 10,
+         "% alternated": 83.33333333333334,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "339": {
+      "% size change from MBA": 98.9010989010989,
+      "deobf mba expression": "a&d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -87.5
+      }
+   },
+   "340": {
+      "% size change from MBA": 96.55172413793103,
+      "deobf mba expression": "(a&b)*(a|d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "341": {
+      "% size change from MBA": 70.0,
+      "deobf mba expression": "c|e|-(b&c)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "342": {
+      "% size change from MBA": 79.03225806451613,
+      "deobf mba expression": "~(~b&d&-~(c+d)|b&c&~d&~(-~(c+d))|b&~c&~d&-~(c+d))",
+      "traits": {
+         "size": 33,
+         "% alternated": 15.789473684210526,
+         "% unique": 76.92307692307693,
+         "% cse": 23.076923076923077,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 85.71428571428571
+      }
+   },
+   "343": {
+      "% size change from MBA": 94.87179487179486,
+      "deobf mba expression": "-a+(~a&e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "344": {
+      "% size change from MBA": 90.41095890410958,
+      "deobf mba expression": "-(-b+d&(b|a&d))&(b|-b|d)",
+      "traits": {
+         "size": 18,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "345": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-b",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "346": {
+      "% size change from MBA": 84.61538461538461,
+      "deobf mba expression": "-b&~(d|-e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "347": {
+      "% size change from MBA": 96.42857142857143,
+      "deobf mba expression": "-(~b*(b^b-d)^-b&~(a-d))",
+      "traits": {
+         "size": 17,
+         "% alternated": 70.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "348": {
+      "% size change from MBA": 81.81818181818183,
+      "deobf mba expression": "2*b+e",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "349": {
+      "% size change from MBA": 92.85714285714286,
+      "deobf mba expression": "e|d*e",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "350": {
+      "% size change from MBA": 88.57142857142857,
+      "deobf mba expression": "b-(-e&a*(b^e))",
+      "traits": {
+         "size": 10,
+         "% alternated": 80.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "351": {
+      "% size change from MBA": 98.38709677419355,
+      "deobf mba expression": "-~(a-d+(-a^2*a^d)+(d|-d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "352": {
+      "% size change from MBA": 90.9090909090909,
+      "deobf mba expression": "b*b+c*(2*b&c)-c*c-b*(2*b&c)&(-b|b&-c)",
+      "traits": {
+         "size": 31,
+         "% alternated": 43.75,
+         "% unique": 71.42857142857143,
+         "% cse": 28.57142857142857,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 75.0
+      }
+   },
+   "353": {
+      "% size change from MBA": 97.63779527559055,
+      "deobf mba expression": "-d*~(-2*b+d)",
+      "traits": {
+         "size": 9,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "354": {
+      "% size change from MBA": 83.33333333333334,
+      "deobf mba expression": "~(d&a*(a-d))",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "355": {
+      "% size change from MBA": 97.91666666666666,
+      "deobf mba expression": "(b-d)*(b|c*(c+d))",
+      "traits": {
+         "size": 11,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "356": {
+      "% size change from MBA": 97.72727272727273,
+      "deobf mba expression": "-~(-(d&e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "357": {
+      "% size change from MBA": 84.61538461538461,
+      "deobf mba expression": "d*(d*(((c^d)&(d^-b+c))*(c^d|c^-b+c)+(~(c^d)&(c^-b+c))*((c^d)&(c^-b+c)))+((c^d)&(d^-b+c))*(c^d|c^-b+c)+(~(c^d)&(c^-b+c))*((c^d)&(c^-b+c)))+c*(((c^d)&(d^-b+c))*(c^d|c^-b+c)+((c^d)&(c^-b+c))*(~(c^d)&(c^-b+c)))",
+      "traits": {
+         "size": 140,
+         "% alternated": 31.16883116883117,
+         "% unique": 14.516129032258066,
+         "% cse": 85.48387096774194,
+         "num equivalent subtrees to GT": 29,
+         "% size mba increase from GT ": 675.0
+      }
+   },
+   "358": {
+      "% size change from MBA": 82.35294117647058,
+      "deobf mba expression": "-(-b^d)+(a|b)",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "359": {
+      "% size change from MBA": 96.11650485436894,
+      "deobf mba expression": "b*(-c+2*(b&c))",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "360": {
+      "% size change from MBA": 96.96969696969697,
+      "deobf mba expression": "-c*(-d&c+d)",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "361": {
+      "% size change from MBA": 66.66666666666666,
+      "deobf mba expression": "~(b+e)&-~(b+e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "362": {
+      "% size change from MBA": 87.5,
+      "deobf mba expression": "~d-e",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "363": {
+      "% size change from MBA": 96.98795180722891,
+      "deobf mba expression": "c-(a^-a+2*(a&c))",
+      "traits": {
+         "size": 12,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "364": {
+      "% size change from MBA": 95.96774193548387,
+      "deobf mba expression": "~(2*b+2*d-(b&d))",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "365": {
+      "% size change from MBA": 90.32258064516128,
+      "deobf mba expression": "~(2*d-(d&-d))",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "366": {
+      "% size change from MBA": 90.18987341772153,
+      "deobf mba expression": "-(-(a&c&e)&(e+(a&c))*(a+c))*(-(a&c&e)|(e+(a&c))*(a+c))-(~((e+(a&c))*(a+c))&-(a&c&e))*(~(-(a&c&e))&(e+(a&c))*(a+c))",
+      "traits": {
+         "size": 70,
+         "% alternated": 52.63157894736842,
+         "% unique": 22.58064516129032,
+         "% cse": 77.41935483870968,
+         "num equivalent subtrees to GT": 24,
+         "% size mba increase from GT ": 342.85714285714283
+      }
+   },
+   "367": {
+      "% size change from MBA": 96.42857142857143,
+      "deobf mba expression": "b|b-e",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "368": {
+      "% size change from MBA": 93.33333333333333,
+      "deobf mba expression": "~(3*b^2*d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "369": {
+      "% size change from MBA": 96.0,
+      "deobf mba expression": "c|~c*~c|b-c",
+      "traits": {
+         "size": 11,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "370": {
+      "% size change from MBA": 97.2972972972973,
+      "deobf mba expression": "c+d+~(d&d*(c|c+d))",
+      "traits": {
+         "size": 14,
+         "% alternated": 57.14285714285714,
+         "% unique": 66.66666666666666,
+         "% cse": 33.33333333333333,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "371": {
+      "% size change from MBA": 93.18181818181817,
+      "deobf mba expression": "~(~a*c&-(a|c))",
+      "traits": {
+         "size": 10,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "372": {
+      "% size change from MBA": 97.57281553398059,
+      "deobf mba expression": "~(c*c^-b*c)-(c^-c)",
+      "traits": {
+         "size": 14,
+         "% alternated": 62.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -28.57142857142857
+      }
+   },
+   "373": {
+      "% size change from MBA": 78.57142857142857,
+      "deobf mba expression": "2*e&(b|e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -25.0
+      }
+   },
+   "374": {
+      "% size change from MBA": 97.6,
+      "deobf mba expression": "-(c|e)-b*c",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "375": {
+      "% size change from MBA": 99.38650306748467,
+      "deobf mba expression": "-a*-a",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "376": {
+      "% size change from MBA": 97.0873786407767,
+      "deobf mba expression": "b^b*(a+b)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -57.14285714285714
+      }
+   },
+   "377": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "2+e*(d^e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 200.0
+      }
+   },
+   "378": {
+      "% size change from MBA": 75.0,
+      "deobf mba expression": "-b+(b&~(-b)&(a|~b*e))",
+      "traits": {
+         "size": 15,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 25.0
+      }
+   },
+   "379": {
+      "% size change from MBA": 91.66666666666666,
+      "deobf mba expression": "-~(-e+(b^d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "380": {
+      "% size change from MBA": 95.16129032258065,
+      "deobf mba expression": "2*d&~(e^(b*d|d*e))",
+      "traits": {
+         "size": 14,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "381": {
+      "% size change from MBA": 99.71098265895954,
+      "deobf mba expression": "-~(d*(e*(d|e)+(e|2*e)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "382": {
+      "% size change from MBA": 83.33333333333334,
+      "deobf mba expression": "~(-2*(~a&e))",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "383": {
+      "% size change from MBA": 80.37825059101655,
+      "deobf mba expression": "(-(a|a*c)&((a^a+c)&(a|c))*(a|c|a+c)+(~(a^a+c)&(a|c))*(~(a|c)&a+c))*(-(a|a*c)|((a^a+c)&(a|c))*(a|c|a+c)+(~(a^a+c)&(a|c))*(~(a|c)&a+c))+(~(((a^a+c)&(a|c))*(a|c|a+c)+(~(a^a+c)&(a|c))*(~(a|c)&a+c))&-(a|a*c))*(~(-(a|a*c))&((a^a+c)&(a|c))*(a|c|a+c)+(~(a^a+c)&(a|c))*(~(a|c)&a+c))",
+      "traits": {
+         "size": 181,
+         "% alternated": 53.608247422680414,
+         "% unique": 8.433734939759036,
+         "% cse": 91.56626506024097,
+         "num equivalent subtrees to GT": 52,
+         "% size mba increase from GT ": 1085.7142857142858
+      }
+   },
+   "384": {
+      "% size change from MBA": 98.13953488372093,
+      "deobf mba expression": "~(e|-b+e)*(b+e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "385": {
+      "% size change from MBA": 82.6086956521739,
+      "deobf mba expression": "~(-~(2*d))&(d^d+e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "386": {
+      "% size change from MBA": 97.19626168224299,
+      "deobf mba expression": "~c&(b^b*b)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "387": {
+      "% size change from MBA": 95.65217391304348,
+      "deobf mba expression": "c+~e+b*(-2*e+2*(b^c))",
+      "traits": {
+         "size": 16,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 16.666666666666664
+      }
+   },
+   "388": {
+      "% size change from MBA": 83.8323353293413,
+      "deobf mba expression": "(d+~e&2*d-(b&b+e))*(d+~e|2*d-(b&b+e))+(~(2*d-(b&b+e))&d+~e)*(-d+e&2*d-(b&b+e))",
+      "traits": {
+         "size": 60,
+         "% alternated": 71.875,
+         "% unique": 29.629629629629626,
+         "% cse": 70.37037037037037,
+         "num equivalent subtrees to GT": 23,
+         "% size mba increase from GT ": 200.0
+      }
+   },
+   "389": {
+      "% size change from MBA": 86.66666666666667,
+      "deobf mba expression": "e^d&~(e&d*d)",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "390": {
+      "% size change from MBA": 81.25,
+      "deobf mba expression": "~(a^e)&(a^-a)",
+      "traits": {
+         "size": 9,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "391": {
+      "% size change from MBA": 78.94736842105263,
+      "deobf mba expression": "-2-(-c&(e^c+e))",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 33.33333333333333
+      }
+   },
+   "392": {
+      "% size change from MBA": 94.9685534591195,
+      "deobf mba expression": "~((a-e)*(a^e)^(a|e*e*(a|e)))",
+      "traits": {
+         "size": 18,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 7,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "393": {
+      "% size change from MBA": 94.9367088607595,
+      "deobf mba expression": "d|2*e|d+e",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "394": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "395": {
+      "% size change from MBA": 92.85714285714286,
+      "deobf mba expression": "-d*e+(e*e|~(d+e))",
+      "traits": {
+         "size": 13,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "396": {
+      "% size change from MBA": 90.47619047619048,
+      "deobf mba expression": "~b-b*b",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "397": {
+      "% size change from MBA": 88.88888888888889,
+      "deobf mba expression": "e*(-2+b-e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "398": {
+      "% size change from MBA": 91.30434782608695,
+      "deobf mba expression": "-2+e-(a^-e*e)",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "399": {
+      "% size change from MBA": 96.29629629629629,
+      "deobf mba expression": "-c*d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "400": {
+      "% size change from MBA": 98.52941176470588,
+      "deobf mba expression": "-~(d+(2*b^-a*b)+(d|b+d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "401": {
+      "% size change from MBA": 97.77777777777777,
+      "deobf mba expression": "c|d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "402": {
+      "% size change from MBA": 97.22222222222221,
+      "deobf mba expression": "-~(-a*~(c+d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "403": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "404": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-c",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "405": {
+      "% size change from MBA": 92.23300970873787,
+      "deobf mba expression": "~(-(b&c&e)+c*e)&(-b+e)*(b^e)",
+      "traits": {
+         "size": 20,
+         "% alternated": 36.36363636363637,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "406": {
+      "% size change from MBA": 96.69421487603306,
+      "deobf mba expression": "a*(a&d)^a+d",
+      "traits": {
+         "size": 9,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "407": {
+      "% size change from MBA": 98.29059829059828,
+      "deobf mba expression": "~(~d&e)-(c^d-e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "408": {
+      "% size change from MBA": 97.79411764705883,
+      "deobf mba expression": "(a&-a)+(a^e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 75.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "409": {
+      "% size change from MBA": 87.2340425531915,
+      "deobf mba expression": "a+2*d-2*e-(a&d)",
+      "traits": {
+         "size": 13,
+         "% alternated": 16.666666666666664,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -14.285714285714285
+      }
+   },
+   "410": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "411": {
+      "% size change from MBA": 93.75,
+      "deobf mba expression": "-~(-(a&d^(b|d))+2*(d&~(a&b))+(d|~(-b+d)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "412": {
+      "% size change from MBA": 93.57798165137615,
+      "deobf mba expression": "~(e|~(b|c)|c*e)+(e|c*e)",
+      "traits": {
+         "size": 17,
+         "% alternated": 44.44444444444444,
+         "% unique": 71.42857142857143,
+         "% cse": 28.57142857142857,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 16.666666666666664
+      }
+   },
+   "413": {
+      "% size change from MBA": 96.875,
+      "deobf mba expression": "-~(-e-(e|d*e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "414": {
+      "% size change from MBA": 93.75,
+      "deobf mba expression": "-~(2*d-e-(d&e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "415": {
+      "% size change from MBA": 95.04950495049505,
+      "deobf mba expression": "-b|a*(2*a-2*b)",
+      "traits": {
+         "size": 12,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "416": {
+      "% size change from MBA": 89.47368421052632,
+      "deobf mba expression": "~(-a&2*a)",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "417": {
+      "% size change from MBA": 96.36363636363636,
+      "deobf mba expression": "c*(b&e)",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "418": {
+      "% size change from MBA": 94.73684210526315,
+      "deobf mba expression": "~(-a^(a|e))",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "419": {
+      "% size change from MBA": 98.0,
+      "deobf mba expression": "-~(b+(~(-~b)&(b|a-2*b)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -87.5
+      }
+   },
+   "420": {
+      "% size change from MBA": 96.55172413793103,
+      "deobf mba expression": "-(d^(a|b))",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "421": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "422": {
+      "% size change from MBA": 95.09803921568627,
+      "deobf mba expression": "(c&~e)+(c*e^-c+e)",
+      "traits": {
+         "size": 13,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -16.666666666666664
+      }
+   },
+   "423": {
+      "% size change from MBA": 98.33333333333333,
+      "deobf mba expression": "b*(~a)+(a&-~a)",
+      "traits": {
+         "size": 10,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "424": {
+      "% size change from MBA": 83.33333333333334,
+      "deobf mba expression": "a|3*a+2*c-(2*a&c)",
+      "traits": {
+         "size": 15,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 40.0
+      }
+   },
+   "425": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "~b&d",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "426": {
+      "% size change from MBA": 99.48586118251927,
+      "deobf mba expression": "-a*~a*d*(a*d^a-d)",
+      "traits": {
+         "size": 15,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "427": {
+      "% size change from MBA": 98.75,
+      "deobf mba expression": "-2+c",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "428": {
+      "% size change from MBA": 95.80838323353294,
+      "deobf mba expression": "c*c*(c-d)^a&2*c+d",
+      "traits": {
+         "size": 15,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "429": {
+      "% size change from MBA": 91.42857142857143,
+      "deobf mba expression": "~(b|c*(b|c))",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "430": {
+      "% size change from MBA": 96.52173913043478,
+      "deobf mba expression": "b*(b^-2*b^e)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "431": {
+      "% size change from MBA": 94.02985074626866,
+      "deobf mba expression": "~(c^b&d)-(c^-c+d)+d*(b^c)",
+      "traits": {
+         "size": 19,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": -11.11111111111111
+      }
+   },
+   "432": {
+      "% size change from MBA": 70.45454545454545,
+      "deobf mba expression": "4*d-(d&e)-2*(d&d-e)-(d+(d|e)&(d^d-e))",
+      "traits": {
+         "size": 27,
+         "% alternated": 53.84615384615385,
+         "% unique": 84.61538461538461,
+         "% cse": 15.384615384615385,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 116.66666666666667
+      }
+   },
+   "433": {
+      "% size change from MBA": 88.23529411764706,
+      "deobf mba expression": "-(c&~(b-c))",
+      "traits": {
+         "size": 7,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "434": {
+      "% size change from MBA": 88.18181818181819,
+      "deobf mba expression": "-a|~a&(e&-(a|b))*(e|-(a|b))+(~e&-(a|b))*(e&~(-(a|b)))",
+      "traits": {
+         "size": 35,
+         "% alternated": 66.66666666666666,
+         "% unique": 69.23076923076923,
+         "% cse": 30.76923076923077,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 116.66666666666667
+      }
+   },
+   "435": {
+      "% size change from MBA": 91.83673469387756,
+      "deobf mba expression": "-a*b|a^a+b",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "436": {
+      "% size change from MBA": 98.07692307692307,
+      "deobf mba expression": "~(b&e)",
+      "traits": {
+         "size": 4,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "437": {
+      "% size change from MBA": 97.87234042553192,
+      "deobf mba expression": "-~(-2*a+3*d+2*(~d&a-d)+(a-d|a^d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "438": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "439": {
+      "% size change from MBA": 95.40229885057471,
+      "deobf mba expression": "c*(-a+d)^(a|c)",
+      "traits": {
+         "size": 10,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "440": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "-~(a&b)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "441": {
+      "% size change from MBA": 99.47089947089947,
+      "deobf mba expression": "-~b",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -83.33333333333334
+      }
+   },
+   "442": {
+      "% size change from MBA": 93.33333333333333,
+      "deobf mba expression": "-(a|b)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "443": {
+      "% size change from MBA": 98.82005899705014,
+      "deobf mba expression": "a*a*(b^a+b)",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "444": {
+      "% size change from MBA": 89.81481481481481,
+      "deobf mba expression": "2*a+~(a&a+e)+(e*e&-2*a+(a&a+e))",
+      "traits": {
+         "size": 24,
+         "% alternated": 58.333333333333336,
+         "% unique": 63.63636363636363,
+         "% cse": 36.36363636363637,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 120.0
+      }
+   },
+   "445": {
+      "% size change from MBA": 98.52941176470588,
+      "deobf mba expression": "-d-a*a",
+      "traits": {
+         "size": 6,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "446": {
+      "% size change from MBA": 98.63013698630137,
+      "deobf mba expression": "d*e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "447": {
+      "% size change from MBA": 96.42857142857143,
+      "deobf mba expression": "e+~(b&~d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "448": {
+      "% size change from MBA": 92.3076923076923,
+      "deobf mba expression": "~(a*c&(b|c*(b&c)))",
+      "traits": {
+         "size": 12,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "449": {
+      "% size change from MBA": 96.55172413793103,
+      "deobf mba expression": "-~d*-~d",
+      "traits": {
+         "size": 7,
+         "% alternated": 0.0,
+         "% unique": 33.33333333333333,
+         "% cse": 66.66666666666666,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "450": {
+      "% size change from MBA": 87.5,
+      "deobf mba expression": "-~c^-c+e",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "451": {
+      "% size change from MBA": 92.45283018867924,
+      "deobf mba expression": "~(b^b-a*(a^b))",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -20.0
+      }
+   },
+   "452": {
+      "% size change from MBA": 85.0,
+      "deobf mba expression": "-a|2*b+e",
+      "traits": {
+         "size": 8,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "453": {
+      "% size change from MBA": 93.72693726937268,
+      "deobf mba expression": "-a-d-(1&(a^-a*b))*(1|a^-a*b)-(-2&(a^-a*b))*(1&~(a^-a*b))",
+      "traits": {
+         "size": 41,
+         "% alternated": 34.78260869565217,
+         "% unique": 52.94117647058824,
+         "% cse": 47.05882352941176,
+         "num equivalent subtrees to GT": 12,
+         "% size mba increase from GT ": 183.33333333333331
+      }
+   },
+   "454": {
+      "% size change from MBA": 96.49122807017544,
+      "deobf mba expression": "3*a-b",
+      "traits": {
+         "size": 5,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "455": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "456": {
+      "% size change from MBA": 98.29545454545455,
+      "deobf mba expression": "2*d-(d&e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "457": {
+      "% size change from MBA": 98.51851851851852,
+      "deobf mba expression": "~(d^-2*d)",
+      "traits": {
+         "size": 6,
+         "% alternated": 33.33333333333333,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "458": {
+      "% size change from MBA": 95.72192513368985,
+      "deobf mba expression": "(-a-e+2*(c|e))*(a&c+(c&e))",
+      "traits": {
+         "size": 18,
+         "% alternated": 44.44444444444444,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 4,
+         "% size mba increase from GT ": 14.285714285714285
+      }
+   },
+   "459": {
+      "% size change from MBA": 98.1651376146789,
+      "deobf mba expression": "-(a&~d)+a*(~a&d)",
+      "traits": {
+         "size": 12,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "460": {
+      "% size change from MBA": 68.42105263157895,
+      "deobf mba expression": "~a-c-2*e+2*(a&e)",
+      "traits": {
+         "size": 14,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "461": {
+      "% size change from MBA": 77.77777777777779,
+      "deobf mba expression": "c-e|e&2*e",
+      "traits": {
+         "size": 9,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "462": {
+      "% size change from MBA": 99.27404718693285,
+      "deobf mba expression": "(-d-e*e)*(d&~e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 16.666666666666664,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "463": {
+      "% size change from MBA": 95.08196721311475,
+      "deobf mba expression": "-(~(d&c-d)&(a|d))+~(a|d)*(d&c-d)",
+      "traits": {
+         "size": 22,
+         "% alternated": 41.66666666666667,
+         "% unique": 33.33333333333333,
+         "% cse": 66.66666666666666,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 50.0
+      }
+   },
+   "464": {
+      "% size change from MBA": 81.81818181818183,
+      "deobf mba expression": "2*b|-b",
+      "traits": {
+         "size": 6,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "465": {
+      "% size change from MBA": 92.10526315789474,
+      "deobf mba expression": "e+(a^2*e)",
+      "traits": {
+         "size": 7,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "466": {
+      "% size change from MBA": 98.36065573770492,
+      "deobf mba expression": "-c*~c*(a&~(-b))",
+      "traits": {
+         "size": 11,
+         "% alternated": 42.857142857142854,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "467": {
+      "% size change from MBA": 93.65079365079364,
+      "deobf mba expression": "2*c&-a-2*c",
+      "traits": {
+         "size": 10,
+         "% alternated": 40.0,
+         "% unique": 50.0,
+         "% cse": 50.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -42.857142857142854
+      }
+   },
+   "468": {
+      "% size change from MBA": 96.45390070921985,
+      "deobf mba expression": "a^b^a-2*(a&b)",
+      "traits": {
+         "size": 11,
+         "% alternated": 40.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "469": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "470": {
+      "% size change from MBA": 92.85714285714286,
+      "deobf mba expression": "-(a&b)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "471": {
+      "% size change from MBA": 92.5,
+      "deobf mba expression": "~(-(c^b+2*e))",
+      "traits": {
+         "size": 9,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -40.0
+      }
+   },
+   "472": {
+      "% size change from MBA": 93.54838709677419,
+      "deobf mba expression": "a&-~(-(~a&c))",
+      "traits": {
+         "size": 5,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "473": {
+      "% size change from MBA": 98.68421052631578,
+      "deobf mba expression": "-~(b&(~e&2*b+c|~c&2*b+c|c&e&~(2*b+c)))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -80.0
+      }
+   },
+   "474": {
+      "% size change from MBA": 87.5,
+      "deobf mba expression": "d|e",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "475": {
+      "% size change from MBA": 90.625,
+      "deobf mba expression": "(-a-d)*(a^e)",
+      "traits": {
+         "size": 8,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "476": {
+      "% size change from MBA": 98.14814814814815,
+      "deobf mba expression": "-~(~(c*(a-c))&a*~a)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -75.0
+      }
+   },
+   "477": {
+      "% size change from MBA": 97.88135593220339,
+      "deobf mba expression": "d+a*a+(a^(d|e))",
+      "traits": {
+         "size": 11,
+         "% alternated": 20.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "478": {
+      "% size change from MBA": 93.69369369369369,
+      "deobf mba expression": "e*(b&a*e)&(b-e|a^e)",
+      "traits": {
+         "size": 15,
+         "% alternated": 57.14285714285714,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "479": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "480": {
+      "% size change from MBA": 83.33333333333334,
+      "deobf mba expression": "~(d^e|d^-d+e)",
+      "traits": {
+         "size": 11,
+         "% alternated": 16.666666666666664,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 3,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "481": {
+      "% size change from MBA": 96.96969696969697,
+      "deobf mba expression": "b^d",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -66.66666666666666
+      }
+   },
+   "482": {
+      "% size change from MBA": 88.23529411764706,
+      "deobf mba expression": "-2*b^-2*a-(b^~a&(b^a*c))+(a+(a&b)&(a|a*c))",
+      "traits": {
+         "size": 30,
+         "% alternated": 53.333333333333336,
+         "% unique": 85.71428571428571,
+         "% cse": 14.285714285714285,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 100.0
+      }
+   },
+   "483": {
+      "% size change from MBA": 90.0,
+      "deobf mba expression": "~b*~b",
+      "traits": {
+         "size": 5,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "484": {
+      "% size change from MBA": 94.73684210526315,
+      "deobf mba expression": "-(b^-d*~d)",
+      "traits": {
+         "size": 8,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -33.33333333333333
+      }
+   },
+   "485": {
+      "% size change from MBA": 99.02912621359224,
+      "deobf mba expression": "-~(-(b^d)+b*(-b+d))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "486": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "-1",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "487": {
+      "% size change from MBA": 78.35051546391753,
+      "deobf mba expression": "-(a&-c)^(-(c&(a|b))&b+c)*(-(c&(a|b))|b+c)+(~(b+c)&-(c&(a|b)))*(~(-(c&(a|b)))&b+c)",
+      "traits": {
+         "size": 51,
+         "% alternated": 68.96551724137932,
+         "% unique": 42.857142857142854,
+         "% cse": 57.14285714285714,
+         "num equivalent subtrees to GT": 14,
+         "% size mba increase from GT ": 250.0
+      }
+   },
+   "488": {
+      "% size change from MBA": 90.47619047619048,
+      "deobf mba expression": "b^(~d|-d)",
+      "traits": {
+         "size": 7,
+         "% alternated": 25.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -50.0
+      }
+   },
+   "489": {
+      "% size change from MBA": 94.02985074626866,
+      "deobf mba expression": "-b+(~b|c|-b+c)",
+      "traits": {
+         "size": 12,
+         "% alternated": 28.57142857142857,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "490": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "~d",
+      "traits": {
+         "size": 2,
+         "% alternated": 0.0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "491": {
+      "% size change from MBA": 92.83276450511946,
+      "deobf mba expression": "-((b+(b^d))*(a^b^d)&a*b*d&(b|d))+((b+(b^d))*(a^b^d)|a*b*d&(b|d))",
+      "traits": {
+         "size": 44,
+         "% alternated": 45.45454545454545,
+         "% unique": 23.809523809523807,
+         "% cse": 76.19047619047619,
+         "num equivalent subtrees to GT": 17,
+         "% size mba increase from GT ": 110.00000000000001
+      }
+   },
+   "492": {
+      "% size change from MBA": 85.71428571428571,
+      "deobf mba expression": "~(2*a)",
+      "traits": {
+         "size": 4,
+         "% alternated": 50.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "493": {
+      "% size change from MBA": 97.22222222222221,
+      "deobf mba expression": "-d&~(-(a&d))",
+      "traits": {
+         "size": 8,
+         "% alternated": 60.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -71.42857142857143
+      }
+   },
+   "494": {
+      "% size change from MBA": 99.77011494252874,
+      "deobf mba expression": "-~(-a*~(b*(2-a*~(b+e*e))-~a*e*e))",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -85.71428571428571
+      }
+   },
+   "495": {
+      "% size change from MBA": 97.9746835443038,
+      "deobf mba expression": "a*~(-b)&-b*~(b-(a^d)+(b&~(a+d)))",
+      "traits": {
+         "size": 22,
+         "% alternated": 69.23076923076923,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 5,
+         "% size mba increase from GT ": -11.11111111111111
+      }
+   },
+   "496": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "497": {
+      "% size change from MBA": 100.0,
+      "deobf mba expression": "0",
+      "traits": {
+         "size": 1,
+         "% alternated": 0,
+         "% unique": 0,
+         "% cse": 0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": -100.0
+      }
+   },
+   "498": {
+      "% size change from MBA": 93.33333333333333,
+      "deobf mba expression": "-a&a-e",
+      "traits": {
+         "size": 6,
+         "% alternated": 66.66666666666666,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 2,
+         "% size mba increase from GT ": -60.0
+      }
+   },
+   "499": {
+      "% size change from MBA": 98.68421052631578,
+      "deobf mba expression": "-~(2*c*c)",
+      "traits": {
+         "size": 3,
+         "% alternated": 0.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 0,
+         "% size mba increase from GT ": 0.0
+      }
+   },
+   "500": {
+      "% size change from MBA": 73.91304347826086,
+      "deobf mba expression": "2*(-e&-a+e)-(-e^a+~e)",
+      "traits": {
+         "size": 17,
+         "% alternated": 70.0,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 1,
+         "% size mba increase from GT ": 200.0
+      }
+   },
+   "501": {
+      "% size change from MBA": 96.2085308056872,
+      "deobf mba expression": "(a+b+(a&c))*(a+(a|c)&b+c)",
+      "traits": {
+         "size": 17,
+         "% alternated": 62.5,
+         "% unique": 100.0,
+         "% cse": 0.0,
+         "num equivalent subtrees to GT": 6,
+         "% size mba increase from GT ": 0.0
+      }
+   }
+}
